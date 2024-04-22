@@ -115,16 +115,18 @@ PX4_SYS_AUTOSTART=4001 PX4_SIM_MODEL=gz_cerberus_anymal_b_visual_only ./build/px
 
 
 
-# To Change environment in Launch file and include QGC in startup (Not fully working yet)
+# To Change environment in Launch file and include QGC in startup
 
 1. Open SRC from VSCode. Located in following directory:
 ```Shell
 /home/ross/ros2_px4_workspace/src
 ```
+
 2. navigate to following directory:
 ```Shell
 /home/ross/ros2_px4_workspace/src/ROS2_PX4_Offboard_Example/px4_offboard/px4_offboard/processes.py
 ```
+
 3. Include QGC in launch(If QGC installed): Change commands section as follows:
 	1. add "," after PX4 SITL run command
 	2. Ensure correct directory for QGC. NOTE how QGroundControl.AppImage is a file inside thes QGroundControl.AppImage folder.
@@ -134,12 +136,13 @@ commands = [
 "MicroXRCEAgent udp4 -p 8888",
 
 # Run the PX4 SITL simulation
-"cd ~/PX4-Autopilot && make px4_sitl gz_x500",
+"cd && cd ~/PX4-Autopilot && PX4_GZ_WORLD=default make px4_sitl gz_x500",
 
 # Run QGroundControl
 "cd && cd QGroundControl.AppImage && ./QGroundControl.AppImage"
 ]
 ```
+
 4. Changing the model:
 	1. Simply change the "x500" model in the PX4 SITL run command to another model in the models directory(Described above). e.g.:
 ```Shell
@@ -147,14 +150,23 @@ commands = [
 "cd ~/PX4-Autopilot && make px4_sitl gz_advanced_plane",
 ```
 
-5. Change environment using (NOT WORKING YET!!!!): 
+5. Change environment:
+	1. NB!!
+	2. This is quite difficult
+	3. I ended up changing the "default world" by:
+		1. Including packages for SubT world (The links) after "/spherical_coordinates>"
+		2. Removing the "model name='ground_plane'>"
+	4. What you cant do for some reason(made me struggle a lot)
+		1. DO NOT rename the world file
+
+6. Change Initial Position of Drone
+	1. The position at the beginning of the SubT circuit is around: '-13,0,0,0,0,0'
 ```Shell
-cd
-cd ~/PX4-Autopilot
-PX4_GZ_WORLD=baylands make px4_sitl gz_x500
+# Run the PX4 SITL simulation
+"cd && cd ~/PX4-Autopilot && PX4_GZ_WORLD=default PX4_GZ_MODEL_POSE='-13,0,0,0,0,0' PX4_SIM_MODEL=gz_x500_depth ./build/px4_sitl_default/bin/px4",
 ```
 
-6. REMEMBER: Rebuild px4_offboard every time we make changes to the code. Use the following command for rebuild and launch:
+7. REMEMBER: Rebuild px4_offboard every time we make changes to the code. Use the following command for rebuild and launch:
 ```Shell
 cd
 cd ros2_px4_workspace/

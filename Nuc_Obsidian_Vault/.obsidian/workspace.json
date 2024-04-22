@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drone Stuff.md",
+                "file": "Creating an Actual Node.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e03b687309b5529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other ROS2 Stuff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "965018736d8c0f3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other ROS2 Stuff.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d310a1af9a1fe9d2",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drone Stuff.md",
+                "file": "Other ROS2 Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drone Stuff.md",
+                "file": "Other ROS2 Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drone Stuff.md"
+                "file": "Other ROS2 Stuff.md"
               }
             }
           }
@@ -146,6 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f93f6396b8b1645d",
-  "lastOpenFiles": []
+  "active": "8e03b687309b5529",
+  "lastOpenFiles": [
+    "Creating an Actual Node.md",
+    "Drone Simulation Setup.md",
+    "Other ROS2 Stuff.md"
+  ]
 }
