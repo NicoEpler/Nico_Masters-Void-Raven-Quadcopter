@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "6cd045e903079656",
+    "id": "c8d978e071134d42",
     "type": "split",
     "children": [
       {
-        "id": "4f63da3eadd44510",
+        "id": "8141a0c2716b6f90",
         "type": "tabs",
         "children": [
           {
-            "id": "965018736d8c0f3f",
+            "id": "36bced087dbf6b39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other ROS2 Stuff.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0d7abdf28eefa2b0",
+    "id": "59b74089eac2c057",
     "type": "split",
     "children": [
       {
-        "id": "ce5ee261d6b9f6eb",
+        "id": "e54e65f964999b15",
         "type": "tabs",
         "children": [
           {
-            "id": "1d54499570977cd4",
+            "id": "5b245074d57b1cf4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "7019e125ef14df3c",
+            "id": "75252a14908e75fe",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "c367ebe6e79b67b3",
+            "id": "d7c440b8caf91a1b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "d310a1af9a1fe9d2",
+    "id": "3452601c7133a8b2",
     "type": "split",
     "children": [
       {
-        "id": "a313e09208ce1320",
+        "id": "81ecc145ba0e704d",
         "type": "tabs",
         "children": [
           {
-            "id": "d7141a47c0027938",
+            "id": "e4227f83b5fc30cf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other ROS2 Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "5ee4f18ed4dc636c",
+            "id": "2f027bf074b597e6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other ROS2 Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ae85a30fbcae7375",
+            "id": "bc08ab9d33e081bb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,20 +114,19 @@
             }
           },
           {
-            "id": "a44bf9636b5e6bb7",
+            "id": "26613ad97445cf7d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Other ROS2 Stuff.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,10 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d54499570977cd4",
-  "lastOpenFiles": [
-    "Creating an Actual Node.md",
-    "Other ROS2 Stuff.md",
-    "Drone Simulation Setup.md"
-  ]
+  "active": "36bced087dbf6b39",
+  "lastOpenFiles": []
 }
