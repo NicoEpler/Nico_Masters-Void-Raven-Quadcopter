@@ -8,31 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f93f6396b8b1645d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creating an Actual Node.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8e03b687309b5529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other ROS2 Stuff.md",
+                "file": "Drone Simulation Setup.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "965018736d8c0f3f",
+            "id": "6e89fb2bfd2dd3e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d310a1af9a1fe9d2",
@@ -172,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e03b687309b5529",
+  "active": "6e89fb2bfd2dd3e3",
   "lastOpenFiles": [
-    "Creating an Actual Node.md",
     "Drone Simulation Setup.md",
-    "Other ROS2 Stuff.md"
+    "Other ROS2 Stuff.md",
+    "Creating an Actual Node.md",
+    "Nico Other ToDo Stuff.md"
   ]
 }

@@ -124,7 +124,7 @@ PX4_SYS_AUTOSTART=4001 PX4_SIM_MODEL=gz_cerberus_anymal_b_visual_only ./build/px
 
 2. navigate to following directory:
 ```Shell
-/home/ross/ros2_px4_workspace/src/ROS2_PX4_Offboard_Example/px4_offboard/px4_offboard/processes.py
+wn/home/ross/ros2_px4_workspace/src/ROS2_PX4_Offboard_Example/px4_offboard/px4_offboard/processes.py
 ```
 
 3. Include QGC in launch(If QGC installed): Change commands section as follows:
@@ -174,6 +174,33 @@ colcon build --packages-select px4_offboard
 source install/setup.bash
 ros2 launch px4_offboard offboard_velocity_control.launch.py
 ```
+
+
+
+
+
+8. Uninstall gazebo harmonic using [this link](https://gazebosim.org/docs/harmonic/install_ubuntu)
+9. Install gazebo garden using [this link](https://gazebosim.org/docs/garden/install_ubuntu)
+10. Run the following line from [here](https://docs.px4.io/v1.14/en/sim_gazebo_gz/), else somehow the launch file fails. IDK why.:
+```Shell
+cd /path/to/PX4-Autopilot
+make px4_sitl gz_x500
+```
+11. Then Run simulation using garden using:
+```Shell
+cd
+cd ros2_px4_workspace/
+colcon build --packages-select px4_offboard
+source install/setup.bash
+ros2 launch px4_offboard offboard_velocity_control.launch.py
+```
+12. Watch the [video](https://www.youtube.com/watch?v=DsjJtC8QTQY) for bridge between gazebo garden and ros2 humble
+
+
+
+
+
+
 
 
 
