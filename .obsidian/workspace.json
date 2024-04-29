@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "985f5302963a78d0",
+    "id": "c8d978e071134d42",
     "type": "split",
     "children": [
       {
-        "id": "5174a030aa33df34",
+        "id": "8141a0c2716b6f90",
         "type": "tabs",
         "children": [
           {
-            "id": "14598c9159e2bc62",
+            "id": "36bced087dbf6b39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other ROS2 Stuff.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9228f1911c0d7dae",
+    "id": "59b74089eac2c057",
     "type": "split",
     "children": [
       {
-        "id": "8dd49b4ca873e669",
+        "id": "e54e65f964999b15",
         "type": "tabs",
         "children": [
           {
-            "id": "ada787889b1ff342",
+            "id": "5b245074d57b1cf4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "7cf029c9be0aeed7",
+            "id": "75252a14908e75fe",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "ed6894c9d623b521",
+            "id": "d7c440b8caf91a1b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "999d369b191743eb",
+    "id": "3452601c7133a8b2",
     "type": "split",
     "children": [
       {
-        "id": "d7805a490943d43d",
+        "id": "81ecc145ba0e704d",
         "type": "tabs",
         "children": [
           {
-            "id": "73abe956165a8253",
+            "id": "e4227f83b5fc30cf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other ROS2 Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "607f54c561663b2f",
+            "id": "2f027bf074b597e6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other ROS2 Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "408c9ec765c5f03e",
+            "id": "bc08ab9d33e081bb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "d8ab7e1d76b8051f",
+            "id": "26613ad97445cf7d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Other ROS2 Stuff.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,6 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14598c9159e2bc62",
+  "active": "36bced087dbf6b39",
   "lastOpenFiles": []
 }

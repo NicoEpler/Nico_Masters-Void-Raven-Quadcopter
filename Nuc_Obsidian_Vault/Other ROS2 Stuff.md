@@ -133,7 +133,7 @@ cd ros2_ws
 colcon build ---symlink-install
 source ~/.bashrc
 ```
-	8. To prevent having to rebuild every time you change something in the node file, do (If errors do occur afterwards, just source the bashrc):
+	8. To prevent having to rebuild every time you change something in the node file, do (If errors do occur afterwards, just source the bashrc). NOTE: You still have to colcon build whenever you add a nef file/executable.
 
 ```Shell
 ros2 node list
@@ -156,7 +156,45 @@ class MyNode(Node):
 
 5. Topics (Communication between nodes):
 
+```Shell
+ros2 topic list
+```
+	1. See your ROS2 topics using:
+
+```
+ros2 topic info /chatter
+```
+	2. Get more info on the chatter topic
+
+```Shell
+ros2 topic echo /chatter
+```
+	3. To listen in to what the /chatter node is publishing
+
+```Python
+from geometry_msgs.msg import Twist     # Twist is the message type. This one is specific for controlling the turtble bot and was found using 'ros2 topic info /turtle1/cmd_vel' command  in CLI
+
+class DrawCircleNode(Node):
+
+	def __init__(self):
+		super().__init__("draw_circle")
+		self.cmd_vel_pub_ = self.create_publisher(Twist, "/turtle1/cmd_vel", 10)     # command velocity publisher, publishing a Twist type message with the name '/turtle1/cmd_vel' found from 'ros2 topic list' in CLI. 10 is queue size/buffer(10 messages)
+		self.get_logger().info("Draw circle node has been started")
+```
+	4. Creating a publisher node: Create node("draw_circle"), initialize and add main fucntion then add the above class and initializations
+
+```Python
+<depend>rclpy</depend>
+<depend>geometry_msgs</depend>
+<depend>turtlesim</depend>
+```
+	5.As you now use the geometry_msgs package aswell, you have to include this in the package.xml file. Include all other pacakge dependencies here. e.g. turtlesim
 
 
 
-1:02:00
+
+
+
+
+
+
