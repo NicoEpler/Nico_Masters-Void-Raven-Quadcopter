@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other ROS2 Stuff.md",
+                "file": "Drone Simulation Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other ROS2 Stuff.md",
+                "file": "Drone Simulation Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other ROS2 Stuff.md",
+                "file": "Drone Simulation Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other ROS2 Stuff.md"
+                "file": "Drone Simulation Setup.md"
               }
             }
           }
@@ -147,5 +147,9 @@
     }
   },
   "active": "14598c9159e2bc62",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Nico Other ToDo Stuff.md",
+    "Other ROS2 Stuff.md",
+    "Drone Simulation Setup.md"
+  ]
 }

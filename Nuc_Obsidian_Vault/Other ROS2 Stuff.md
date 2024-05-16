@@ -42,7 +42,7 @@ cd
 cd ros2_ws/src
 ros2 pkg create NAME_Change_this --build-type ament_python --dependencies rclpy
 ```
-	4. Create a package inside the src folder. Nodews are written in packages, which allow us to better organize code and the dependencies between packages. To crteate package, do (python package)(for c++ package use "ament_cmake"):
+	4. Create a package inside the src folder. Nodes are written in packages, which allow us to better organize code and the dependencies between packages. To crteate package, do (python package)(for c++ package use "ament_cmake"):
 	Dependencies are all packages and functionalities that the package uses. rclpy is ros2 python library
 
 ```Shell
