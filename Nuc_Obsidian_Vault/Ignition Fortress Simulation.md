@@ -22,16 +22,16 @@ x500_depth/OakD-Lite/base_link/StereoOV7251
 ```
 	2. Add "PointCloud2" and rename /depth_camera/ to /depth_camera/points
 
+5. Change Directories in model and world files to appropriate directories on current device.
 
+6. To make Drone Fly:
+	1. Launch the simulation
+	2. Start the simulation (Play in bottom left gazebo corner)
+	3. Add following command in separate terminal to control rotation speed of motors
+```Shell
+ign topic -t /X500/gazebo/command/motor_speed
+```
 
-
-
-
-topics:
-1. /depth_camera
-2. /depth_camera/points
-3. camera
-4. camera/info
 
 
 
