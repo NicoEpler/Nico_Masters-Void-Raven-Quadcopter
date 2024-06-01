@@ -15,7 +15,8 @@ source install/setup.bash
 ros2 launch ros_gz_example_bringup diff_drive.launch.py
 ```
 
-4. To visualize 3D pointcloud in rviz:
+4. Start the simulation
+5. To visualize 3D pointcloud in rviz:
 	1. Set "fixed frame" from "diff_drive/odom" to:
 ```
 x500_depth/OakD-Lite/base_link/StereoOV7251
@@ -35,3 +36,43 @@ ign topic -t /X500/gazebo/command/motor_speed
 
 
 
+<<<<<<< HEAD
+=======
+From Command Line Flying UAV:
+
+In terminal 1:
+```Shell
+ign gazebo quadcopter.sdf
+```
+
+In terminal 2:
+```Shell
+ign topic -t /X3/gazebo/command/motor_speed --msgtype ignition.msgs.Actuators -p 'velocity:[700, 700, 700, 700]'
+```
+
+Location of quadcopter.sdf:
+	/usr/share/ignition/ignition-gazebo6/worlds
+
+
+
+
+
+try
+```Shell
+ign topic -t /X500/gazebo/command/motor_speed --msgtype ignition.msgs.Actuators -p 'velocity:[700, 700, 700, 700]'
+```
+
+
+
+For new Workspace:
+
+```Shell
+cd
+cd Desktop/GazeboIgnitionFortressSim/DroneSim_ws/
+colcon build --cmake-args -DBUILD_TESTING=ON
+source install/setup.bash
+ros2 launch ros_gz_example_bringup diff_drive.launch.py
+```
+
+
+>>>>>>> 0c6e5aae7aa30cd8f661bc879cc3f22a3682d356
