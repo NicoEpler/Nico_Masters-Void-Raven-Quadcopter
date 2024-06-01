@@ -30,14 +30,24 @@ x500_depth/OakD-Lite/base_link/StereoOV7251
 	2. Start the simulation (Play in bottom left gazebo corner)
 	3. Add following command in separate terminal to control rotation speed of motors
 ```Shell
-ign topic -t /X500/gazebo/command/motor_speed
+ign topic -t /X500/gazebo/command/motor_speed --msgtype ignition.msgs.Actuators -p 'velocity:[700, 700, 700, 700]'
 ```
 
 
 
 
-<<<<<<< HEAD
-=======
+
+
+
+
+
+
+
+
+
+
+
+
 From Command Line Flying UAV:
 
 In terminal 1:
@@ -54,15 +64,10 @@ Location of quadcopter.sdf:
 	/usr/share/ignition/ignition-gazebo6/worlds
 
 
-
-
-
 try
 ```Shell
 ign topic -t /X500/gazebo/command/motor_speed --msgtype ignition.msgs.Actuators -p 'velocity:[700, 700, 700, 700]'
 ```
-
-
 
 For new Workspace:
 
