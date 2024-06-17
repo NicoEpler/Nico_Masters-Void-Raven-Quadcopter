@@ -176,6 +176,20 @@ ros2 launch px4_offboard offboard_velocity_control.launch.py
 ```
 
 
+Nico Acer:
+```shell
+cd
+cd ros2_px4_offboard_example_ws/
+colcon build --packages-select px4_offboard
+source install/setup.bash
+ros2 launch px4_offboard offboard_velocity_control.launch.py
+```
+
+
+
+
+
+
 
 
 
