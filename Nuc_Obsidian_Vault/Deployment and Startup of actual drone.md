@@ -40,9 +40,57 @@ Note:
 
 
 
-
-
 10. Perform [Tuning](https://docs.px4.io/main/en/config/#tuning)
+	1. At first test flight (10/06/2024_13:29):
+		1. High level of oscillations during hovering
+		2. Motors very hot after a very short flight, this should not be the case:
+	2. For tuning stick to following order:
+		1. Rate controller tuning (in acro, stabilized or altitude mode)
+		2. Attitude controller tuning
+		3. Velocity & Position Controller Tuning (position mode)
+	3. Things to consider:
+		The PID values can be adjusted as follows:
+	    - P (proportional) or K gain:
+	        - increase this for more responsiveness
+	        - reduce if the response is overshooting and/or oscillating (up to a certain point increasing the D gain also helps).
+	    - D (derivative) gain:
+	        - this can be increased to dampen overshoots and oscillations
+	        - increase this only as much as needed, as it amplifies noise (and can lead to hot motors)
+	    - I (integral) gain:
+	        - used to reduce steady-state error
+	        - if too low, the response might never reach the setpoint (e.g. in wind)
+	        - if too high, slow oscillations can occur
+	4. At second test flight, PWM600 was used with other quadcopter config, flight still a bit weird and odd sound
+	5. 4s battery was then tested (10/06/2024_15:13)
+	6. 
+	7. 
+	8. 
+	9. Therefore, for first tune do:
+		- Decrease K from ___ to ___
+		- Decrease D from ___ to ___
+		- Leave I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Later : Support new vehicle types and variants, modify flight algorithms, add new modes, integrate new hardware, and communicate with PX4 from outside the flight controller.

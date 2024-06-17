@@ -13,13 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuc_Obsidian_Vault/Ignition Fortress Simulation.md",
+                "file": "Nuc_Obsidian_Vault/Deployment and Startup of actual drone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "458fdf72f23c3987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nuc_Obsidian_Vault/Deployment and Startup of actual drone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "545e9289624750d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nuc_Obsidian_Vault/Setup of companion computer(Vim4).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1cfa0a2dffb5189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nuc_Obsidian_Vault/Drone Simulation Setup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+<<<<<<< HEAD
+        "currentTab": 1
+=======
+        "currentTab": 2
+>>>>>>> 29a65f63e0af47f609a7edabb8c38bfa89b54706
       }
     ],
     "direction": "vertical"
@@ -85,7 +126,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuc_Obsidian_Vault/Ignition Fortress Simulation.md",
+<<<<<<< HEAD
+                "file": "Nuc_Obsidian_Vault/Drone Simulation Setup.md",
+=======
+                "file": "Nuc_Obsidian_Vault/Setup of companion computer(Vim4).md",
+>>>>>>> 29a65f63e0af47f609a7edabb8c38bfa89b54706
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +147,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuc_Obsidian_Vault/Ignition Fortress Simulation.md",
+<<<<<<< HEAD
+                "file": "Nuc_Obsidian_Vault/Drone Simulation Setup.md",
+=======
+                "file": "Nuc_Obsidian_Vault/Setup of companion computer(Vim4).md",
+>>>>>>> 29a65f63e0af47f609a7edabb8c38bfa89b54706
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuc_Obsidian_Vault/Ignition Fortress Simulation.md"
+<<<<<<< HEAD
+                "file": "Nuc_Obsidian_Vault/Drone Simulation Setup.md"
+=======
+                "file": "Nuc_Obsidian_Vault/Setup of companion computer(Vim4).md"
+>>>>>>> 29a65f63e0af47f609a7edabb8c38bfa89b54706
               }
             }
           }
@@ -146,16 +199,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36bced087dbf6b39",
+<<<<<<< HEAD
+  "active": "f1cfa0a2dffb5189",
   "lastOpenFiles": [
+    "Nuc_Obsidian_Vault/Ignition Fortress Simulation.md",
+=======
+  "active": "545e9289624750d5",
+  "lastOpenFiles": [
+    "Nuc_Obsidian_Vault/Setup of companion computer(Vim4).md",
+    "Nuc_Obsidian_Vault/Deployment and Startup of actual drone.md",
     "Nuc_Obsidian_Vault/Ros2 Tutorial.md",
     "Nuc_Obsidian_Vault/Nico ToDo Extra mural.md",
-    "Nuc_Obsidian_Vault/Drone Simulation(Humble PX4).md",
-    "Nuc_Obsidian_Vault/Deployment and Startup of actual drone.md",
-    "Nuc_Obsidian_Vault/Drone Simulation Setup.md",
     "Nuc_Obsidian_Vault/Ignition Fortress Simulation.md",
+    "Nuc_Obsidian_Vault/Drone Simulation(Humble PX4).md",
+    "Nuc_Obsidian_Vault/Drone Simulation Setup.md",
     "Nuc_Obsidian_Vault/Other ROS2 Stuff.md",
+>>>>>>> 29a65f63e0af47f609a7edabb8c38bfa89b54706
     "Nuc_Obsidian_Vault/Nico Other ToDo Stuff.md",
+    "Nuc_Obsidian_Vault/Other ROS2 Stuff.md",
+    "Nuc_Obsidian_Vault/Drone Simulation Setup.md",
     "rqt_graph.png",
     "README.md"
   ]
