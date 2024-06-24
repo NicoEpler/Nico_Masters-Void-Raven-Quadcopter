@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "9142ac579b805437",
     "type": "split",
     "children": [
@@ -21,6 +22,17 @@
           },
           {
             "id": "d2b33b80ff5e637f",
+=======
+    "id": "bd076d27eaadc76e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d86198fe0e5cabb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "255c39f090be9006",
+>>>>>>> 095c29c0bde45043121265c78321540621cc6cea
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,13 +43,18 @@
               }
             }
           }
+<<<<<<< HEAD
         ],
         "currentTab": 1
+=======
+        ]
+>>>>>>> 095c29c0bde45043121265c78321540621cc6cea
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "c0fc03dd9d89dfda",
     "type": "split",
     "children": [
@@ -47,6 +64,17 @@
         "children": [
           {
             "id": "5f5ee14de1e6dd9d",
+=======
+    "id": "5bc856390312df58",
+    "type": "split",
+    "children": [
+      {
+        "id": "4234d757a167d469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ee3c3a922dfab4e",
+>>>>>>> 095c29c0bde45043121265c78321540621cc6cea
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +84,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "fbae623c62e63fa0",
+=======
+            "id": "8068264e4be89f6a",
+>>>>>>> 095c29c0bde45043121265c78321540621cc6cea
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +103,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "ec5f9c5310f7874f",
+=======
+            "id": "11c1811e87b8a94c",
+>>>>>>> 095c29c0bde45043121265c78321540621cc6cea
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,6 +121,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "3566e21712ae78ee",
     "type": "split",
     "children": [
@@ -94,11 +131,26 @@
         "children": [
           {
             "id": "c04affb69585a717",
+=======
+    "id": "a5f74b24cf72a675",
+    "type": "split",
+    "children": [
+      {
+        "id": "80f84634bc1f660d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e34f7b9bb8d404bc",
+>>>>>>> 095c29c0bde45043121265c78321540621cc6cea
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Drone Simulation(Humble PX4).md",
+=======
+                "file": "Ignition Fortress Simulation.md",
+>>>>>>> 095c29c0bde45043121265c78321540621cc6cea
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +162,27 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "9c137c1483cc21c0",
+=======
+            "id": "2c7bfec387ef9608",
+>>>>>>> 095c29c0bde45043121265c78321540621cc6cea
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drone Simulation(Humble PX4).md",
+                "file": "Ignition Fortress Simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "5424016ab6fb46bb",
+=======
+            "id": "627f59364dd84ae3",
+>>>>>>> 095c29c0bde45043121265c78321540621cc6cea
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +193,16 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "f46931afa6459c91",
+=======
+            "id": "2e4f3c03cc27ec1a",
+>>>>>>> 095c29c0bde45043121265c78321540621cc6cea
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drone Simulation(Humble PX4).md"
+                "file": "Ignition Fortress Simulation.md"
               }
             }
           }
@@ -159,11 +223,17 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "d2b33b80ff5e637f",
   "lastOpenFiles": [
     "Look into this Highly interesting Jaeyoung-Lim stuff.md",
     "Drone Simulation(Humble PX4).md",
     "Ros2 Tutorial.md",
     "Ignition Fortress Simulation.md"
+=======
+  "active": "255c39f090be9006",
+  "lastOpenFiles": [
+    "Drone Simulation(Humble PX4).md"
+>>>>>>> 095c29c0bde45043121265c78321540621cc6cea
   ]
 }
