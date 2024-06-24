@@ -176,13 +176,44 @@ ros2 launch px4_offboard offboard_velocity_control.launch.py
 ```
 
 
-Nico Acer:
+
+
+
+
+# To Add bridge for point cloud visualization
+
+Either open new terminal and run
 ```shell
-cd
-cd ros2_px4_offboard_example_ws/
-colcon build --packages-select px4_offboard
-source install/setup.bash
-ros2 launch px4_offboard offboard_velocity_control.launch.py
+ros2 run ros_gz_bridge parameter_bridge --ros-args -p config_file:=/home/nicoepler/ros2_px4_workspace/src/ROS2_PX4_Offboard_Example/px4_offboard/resource/ros_gz_bridge.yaml
+```
+
+
+Or from launch file:
+
+1. Add following node to launch file:
+```shell
+# Bridge ROS topics and Gazebo messages for establishing communication
+bridge = Node(
+package='ros_gz_bridge',
+executable='parameter_bridge',
+parameters=[{
+'config_file': os.path.join(package_dir, 'ros_gz_bridge.yaml'),
+'qos_overrides./tf_static.publisher.durability': 'transient_local',
+}],
+output='screen'
+)
+```
+
+2. Add ros_bridge_yaml file under  "/home/nicoepler/ros2_px4_workspace/src/ROS2_PX4_Offboard_Example/px4_offboard/resource/ros_gz_bridge.yaml"
+3. Add the following to package.xml file:
+```shell
+<depend>ros_gz</depend>
+<depend>ros_gz_bridge</depend>
+```
+4. Install ros_gz dependenceies following [this link](https://github.com/gazebosim/ros_gz/tree/humble)
+5. And source workspace in "gedit ~/.bashrc" file using following line of code:
+```Shell
+source /home/nicoepler/ros_gz_bridge_ws/install/setup.bash
 ```
 
 
@@ -190,12 +221,65 @@ ros2 launch px4_offboard offboard_velocity_control.launch.py
 
 
 
+Troubleshooting:
+1. If you get launch error "ERROR gz_bridge] Service call timed out." Check out [Link 1](https://github.com/PX4/PX4-Autopilot/issues/20668) and [Link 2](https://github.com/PX4/PX4-Autopilot/issues/22148)
+2. Sometimes Gazebo struggles to run/fails. Then close VSCode. It sometimes causes problems
 
 
 
-8. Uninstall gazebo harmonic using [this link](https://gazebosim.org/docs/harmonic/install_ubuntu)
-9. Install gazebo garden using [this link](https://gazebosim.org/docs/garden/install_ubuntu)
-10. Run the following line from [here](https://docs.px4.io/v1.14/en/sim_gazebo_gz/), else somehow the launch file fails. IDK why.:
+
+
+
+# Launch Command
+
+7. REMEMBER: Rebuild px4_offboard every time we make changes to the code. Use the following command for rebuild and launch:
+```Shell
+cd
+cd ros2_px4_workspace/
+colcon build --packages-select px4_offboard
+source install/setup.bash
+ros2 launch px4_offboard offboard_velocity_control.launch.py
+```
+
+ros2 run tf2_tools view_frames
+
+
+# RVIZ
+
+1. Fixed frame must be set to to see pointcloud
+```Shell
+x500_depth_0/OakD-Lite/base_link/StereoOV7251
+```
+2. Adding Fixed Frames to RVIZ2 (adding world and x500_depth_0/OakD-Lite/base_link/StereoOV7251)
+```Shell
+ros2 run tf2_ros static_transform_publisher 0 0 0 0 0 0 1 map world
+ros2 run tf2_ros static_transform_publisher 0 0 0 0 0 0 1 world x500_depth_0/OakD-Lite/base_link/StereoOV7251
+```
+
+-maybe add joint_state_publisher
+-Try spawning model in launch file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Uninstall gazebo harmonic using [this link](https://gazebosim.org/docs/harmonic/install_ubuntu)
+5. Install gazebo garden using [this link](https://gazebosim.org/docs/garden/install_ubuntu)
+6. Run the following line from [here](https://docs.px4.io/v1.14/en/sim_gazebo_gz/), else somehow the launch file fails. IDK why.:
 ```Shell
 cd /path/to/PX4-Autopilot
 make px4_sitl gz_x500
@@ -217,8 +301,3 @@ ros2 launch px4_offboard offboard_velocity_control.launch.py
 
 
 
-
-
-
-
-QGC and [RosettaDrone](https://github.com/RosettaDrone/rosettadrone) for DJI Drones
