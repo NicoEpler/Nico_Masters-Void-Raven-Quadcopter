@@ -15,6 +15,11 @@ Launch PX4 only
 cd && cd ~/PX4-Autopilot && PX4_GZ_WORLD=default PX4_GZ_MODEL_POSE='-13,0,0,0,0,0' PX4_SIM_MODEL=gz_x500_depth ./build/px4_sitl_default/bin/px4
 ```
 
+Launch Gazebo world only:
+```Shell
+gz sim /home/nuc/PX4-Autopilot/Tools/simulation/gz/worlds/default.sdf
+```
+
 Kill Gazebo and all its processes:
 ```Shell
 pkill -9 ruby  
@@ -48,9 +53,13 @@ wget https://d176tv9ibo4jno.cloudfront.net/latest/QGroundControl.AppImage -P ~/Q
 cd QGroundControl.AppImage
 chmod +x ./QGroundControl.AppImage
 ```
-3. There are 2 Ways of launching Gazebo:
+
+
+# Launching Gazebo
+
+1. There are 2 Ways of launching Gazebo:
    
-3. 1. Launching Gazebo and PX4 (QGC is not launched)([This example has been designed to run from one launch file that will start all the necessary nodes. The launch file will run a python script that uses gnome terminal to open a new terminal window for MicroDDS and Gazebo](https://github.com/ARK-Electronics/ROS2_PX4_Offboard_Example?tab=readme-ov-file#readme))(Read website to see what nodes are started, etc):
+2. 1. Launching Gazebo and PX4 (QGC is not launched)([This example has been designed to run from one launch file that will start all the necessary nodes. The launch file will run a python script that uses gnome terminal to open a new terminal window for MicroDDS and Gazebo](https://github.com/ARK-Electronics/ROS2_PX4_Offboard_Example?tab=readme-ov-file#readme))(Read website to see what nodes are started, etc):
 ```bash
 cd
 cd ros2_px4_workspace/
@@ -107,8 +116,6 @@ PX4_GZ_WORLD=baylands make px4_sitl gz_x500
 ```
 3. 2.3. Additional startup syntax available [here](https://docs.px4.io/main/en/sim_gazebo_gz/):
 replace/add to "PX4_GZ_WORLD=baylands" to change other simulation parameters
-
-
 
 
 # Custom worlds and models
@@ -238,24 +245,46 @@ output='screen'
 <depend>ros_gz</depend>
 <depend>ros_gz_bridge</depend>
 ```
-4. Install ros_gz dependencies following [this link](https://github.com/gazebosim/ros_gz/tree/humble). Use the "From source" installation
-	1. This sometimes gives problems. Make sure to:
+4. Install ros_gz dependencies following [this link](https://github.com/gazebosim/ros_gz/tree/humble). Use the "From source" installation as follows:
+```Shell
+export GZ_VERSION=garden # IMPORTANT: Replace with correct version
+
+# Setup the workspace
+mkdir -p ~/ros_gz_bridge_ws/src
+cd ~/ros_gz_bridge_ws/src
+
+# Download needed software
+git clone https://github.com/gazebosim/ros_gz.git -b humble
+
+cd ~/ros_gz_bridge_ws
+rosdep install -r --from-paths src -i -y --rosdistro humble
+
+# Source ROS distro's setup.bash
+source /opt/ros/humble/setup.bash
+
+# Build and install into workspace
+cd ~/ros_gz_bridge_ws
+colcon build --parallel-workers=2
+```
+1. This sometimes gives problems. Make sure to:
 		1. Run following command
 ```Bash 
 pip install setuptools==58.2.0
 ```
 _ 
 		2. If PC freezes, after restart enter following in terminal : export GZ_VERSION=garden
-		3. Try building individual packages/skipping packages/skipping packages that have been build previously/ process less packages simultaneously according to following [link](https://get-help.theconstruct.ai/t/colcon-build-crashes-ubuntu-22-04/19558)
+		3. Try building individual packages/skipping packages/skipping packages that have been build previously/ process less packages simultaneously according to following [link](https://get-help.theconstruct.ai/t/colcon-build-crashes-ubuntu-22-04/19558) and this [link](https://colcon.readthedocs.io/en/released/reference/package-selection-arguments.html) 
+		4. couldn't get ros_gz_image to build
 
 5. And source workspace in "gedit ~/.bashrc" file using following line of code:
 ```Shell
 source /home/nicoepler/ros_gz_bridge_ws/install/setup.bash
 ```
 
-
-
-
+```Shell
+cd ~/ros_gz_bridge_ws/
+colcon build --packages-skip ros_gz_image
+```
 
 
 Troubleshooting:
