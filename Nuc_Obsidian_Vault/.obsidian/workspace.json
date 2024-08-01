@@ -1,52 +1,67 @@
 {
   "main": {
-    "id": "6cd045e903079656",
+<<<<<<< HEAD
+    "id": "44738a81417fb3f8",
     "type": "split",
     "children": [
       {
-        "id": "4f63da3eadd44510",
+        "id": "2e202f09d95709e2",
         "type": "tabs",
         "children": [
           {
-            "id": "965018736d8c0f3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ignition Fortress Simulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
+            "id": "8d0b40d245a87d9d",
+=======
+    "id": "5daa218ead4853b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb821ba2102b5c9a",
+        "type": "tabs",
+        "children": [
           {
-            "id": "0bc13930ab91a680",
+            "id": "e4082891b41dedca",
+>>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Deployment and Startup of actual drone.md",
+=======
+                "file": "Drone Simulation(Humble PX4).md",
+>>>>>>> a165829a640d1d501f693ab0965538342fcc3f87
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0d7abdf28eefa2b0",
+<<<<<<< HEAD
+    "id": "cb0b10e912e240b1",
     "type": "split",
     "children": [
       {
-        "id": "ce5ee261d6b9f6eb",
+        "id": "974e080e10e4d75c",
         "type": "tabs",
         "children": [
           {
-            "id": "1d54499570977cd4",
+            "id": "0aab891251cb565a",
+=======
+    "id": "154edc576d255d06",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dca74a56cf5de33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ff3426afa821133",
+>>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +71,11 @@
             }
           },
           {
-            "id": "7019e125ef14df3c",
+<<<<<<< HEAD
+            "id": "2215958fa8db951d",
+=======
+            "id": "ee3cc261e7c99250",
+>>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +90,11 @@
             }
           },
           {
-            "id": "c367ebe6e79b67b3",
+<<<<<<< HEAD
+            "id": "c6042520d9538894",
+=======
+            "id": "173c0c6e157c91c0",
+>>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,24 +105,41 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "d310a1af9a1fe9d2",
+<<<<<<< HEAD
+    "id": "628efa4a6fed2c65",
     "type": "split",
     "children": [
       {
-        "id": "a313e09208ce1320",
+        "id": "f3b80822aefa58be",
         "type": "tabs",
         "children": [
           {
-            "id": "d7141a47c0027938",
+            "id": "583a0da846b02b28",
+=======
+    "id": "317d0e1b073a23bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5764f5ac864a24b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d5f9b462737ac5c",
+>>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Deployment and Startup of actual drone.md",
                 "collapseAll": true,
+=======
+                "file": "Drone Simulation(Humble PX4).md",
+                "collapseAll": false,
+>>>>>>> a165829a640d1d501f693ab0965538342fcc3f87
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -110,19 +150,31 @@
             }
           },
           {
-            "id": "5ee4f18ed4dc636c",
+<<<<<<< HEAD
+            "id": "026d3c2470b857fa",
+=======
+            "id": "c7feb181c5b818d5",
+>>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Deployment and Startup of actual drone.md",
+=======
+                "file": "Drone Simulation(Humble PX4).md",
+>>>>>>> a165829a640d1d501f693ab0965538342fcc3f87
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ae85a30fbcae7375",
+<<<<<<< HEAD
+            "id": "ad6bdfb64f05e1d8",
+=======
+            "id": "42d25c52134a1e1e",
+>>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +185,20 @@
             }
           },
           {
-            "id": "a44bf9636b5e6bb7",
+<<<<<<< HEAD
+            "id": "0361ba4aae971556",
+=======
+            "id": "211f1214b63046e9",
+>>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Deployment and Startup of actual drone.md"
+=======
+                "file": "Drone Simulation(Humble PX4).md"
+>>>>>>> a165829a640d1d501f693ab0965538342fcc3f87
               }
             }
           }
@@ -146,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -159,14 +219,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bc13930ab91a680",
+<<<<<<< HEAD
+  "active": "8d0b40d245a87d9d",
+  "lastOpenFiles": []
+=======
+  "active": "e4082891b41dedca",
   "lastOpenFiles": [
     "Ignition Fortress Simulation.md",
+<<<<<<< HEAD
     "Deployment and Startup of actual drone.md",
     "Drone Simulation(Humble PX4).md",
     "Untitled",
     "Nico ToDo Extra mural.md",
     "Ros2 Tutorial.md",
     "Creating an Actual Node.md"
+=======
+    "Drone Simulation(Humble PX4).md",
+    "Deployment and Startup of actual drone.md"
+>>>>>>> a165829a640d1d501f693ab0965538342fcc3f87
   ]
+>>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
 }
