@@ -12,7 +12,7 @@ ros2 launch px4_offboard offboard_velocity_control.launch.py
 
 Launch PX4 only
 ```Shell
-cd && cd ~/PX4-Autopilot && PX4_GZ_WORLD=default PX4_GZ_MODEL_POSE='-13,0,0,0,0,0' PX4_SIM_MODEL=gz_x500_depth ./build/px4_sitl_default/bin/px4
+cd && cd ~/PX4-Autopilot &&  HEADLESS=1 PX4_GZ_WORLD=default PX4_GZ_MODEL_POSE='-13,0,0,0,0,0' PX4_SIM_MODEL=gz_x500_depth ./build/px4_sitl_default/bin/px4
 ```
 
 Launch Gazebo world only:
@@ -27,7 +27,15 @@ unset GZ_IP
 unset GZ_PARTITION
 ```
 
+To see all current transforms:
+```Shell
 ros2 run tf2_tools view_frames
+```
+To see a graph of all running topics and nodes:
+```Shell
+rqt_graph
+```
+
 
 
 
@@ -292,7 +300,12 @@ Troubleshooting:
 2. Sometimes Gazebo struggles to run/fails. Then close VSCode. It sometimes causes problems
 
 
+# Additional
 
+1.  To run the simulation, you need a good processor and a dedicated GPU. If no dedicated GPU is available (like intel nuc) or computing resources are limited, run simulation in headless mode, by changing the launch instructions, in the "Processes" file to:
+```
+"cd && cd ~/PX4-Autopilot && HEADLESS=1 PX4_GZ_WORLD=default PX4_GZ_MODEL_POSE='-13,0,2,0,0,0' PX4_SIM_MODEL=gz_x500_depth ./build/px4_sitl_default/bin/px4",
+```
 
 
 

@@ -192,6 +192,10 @@ class DrawCircleNode(Node):
 
 
 
+# Other Interesting Tutorials:
+
+1. ROS2 Gazebo tutorias from "The Construct" explains everything abouth Creating and launching SDF and URDF models in Gazebo and how to visualize them in RVIS [here](https://www.youtube.com/watch?v=qi2A32WgRqI&list=PLK0b4e05LnzbHiGDGTgE_FIWpOCvndtYx&index=1) 
+2. Very explanatory tutorial on robot_state_publisher and joint_state_publisher from "The Construct" ins [here](https://www.youtube.com/watch?v=9BdAkrX4Xkg) 37:00
 
 
 
