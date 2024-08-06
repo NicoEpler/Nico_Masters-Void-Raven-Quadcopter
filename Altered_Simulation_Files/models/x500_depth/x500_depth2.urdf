@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<robot name="quadcopter" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+  <!-- Base link -->
+  <link name="base_link">
+    <visual>
+      <geometry>
+        <box size="0.19 0.19 0.04"/>
+      </geometry>
+      <origin xyz="0 0 0.06"/>
+      <material name="gray">
+        <color rgba="0.5 0.5 0.5 1.0"/>
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <box size="0.19 0.19 0.04"/>
+      </geometry>
+      <origin xyz="0 0 0.06"/>
+    </collision>
+    <inertial>
+      <mass value="1.0"/>
+      <origin xyz="0 0 0.06"/>
+      <inertia ixx="0.1" ixy="0.0" ixz="0.0" iyy="0.1" iyz="0.0" izz="0.1"/>
+    </inertial>
+  </link>
+
+  <!-- Legs -->
+  <link name="leg1">
+    <visual>
+      <geometry>
+        <cylinder radius="0.005" length="0.04"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <material name="black">
+        <color rgba="0 0 0 1.0"/>
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <cylinder radius="0.005" length="0.04"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+    </collision>
+  </link>
+
+  <link name="leg2">
+    <visual>
+      <geometry>
+        <cylinder radius="0.005" length="0.04"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <material name="black">
+        <color rgba="0 0 0 1.0"/>
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <cylinder radius="0.005" length="0.04"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+    </collision>
+  </link>
+
+  <link name="leg3">
+    <visual>
+      <geometry>
+        <cylinder radius="0.005" length="0.04"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <material name="black">
+        <color rgba="0 0 0 1.0"/>
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <cylinder radius="0.005" length="0.04"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+    </collision>
+  </link>
+
+  <link name="leg4">
+    <visual>
+      <geometry>
+        <cylinder radius="0.005" length="0.04"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <material name="black">
+        <color rgba="0 0 0 1.0"/>
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <cylinder radius="0.005" length="0.04"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+    </collision>
+  </link>
+
+  <!-- Propellers -->
+  <link name="propeller_0">
+    <visual>
+      <geometry>
+        <box size="0.127 0.01 0.003"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <material name="black">
+        <color rgba="0 0 0 1.0"/>
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <box size="0.127 0.01 0.003"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+    </collision>
+  </link>
+
+  <link name="propeller_1">
+    <visual>
+      <geometry>
+        <box size="0.127 0.01 0.003"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <material name="black">
+        <color rgba="0 0 0 1.0"/>
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <box size="0.127 0.01 0.003"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+    </collision>
+  </link>
+
+  <link name="propeller_2">
+    <visual>
+      <geometry>
+        <box size="0.127 0.01 0.003"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <material name="black">
+        <color rgba="0 0 0 1.0"/>
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <box size="0.127 0.01 0.003"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+    </collision>
+  </link>
+
+  <link name="propeller_3">
+    <visual>
+      <geometry>
+        <box size="0.127 0.01 0.003"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <material name="black">
+        <color rgba="0 0 0 1.0"/>
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <box size="0.127 0.01 0.003"/>
+      </geometry>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+    </collision>
+  </link>
+
+  <!-- Leg-Base_link Joints -->
+  <joint name="leg1_joint" type="fixed">
+    <parent link="base_link"/>
+    <child link="leg1"/>
+    <origin xyz="0.092 0.092 0.02" rpy="0 0 0"/>
+  </joint>
+
+  <joint name="leg2_joint" type="fixed">
+    <parent link="base_link"/>
+    <child link="leg2"/>
+    <origin xyz="-0.092 0.092 0.02" rpy="0 0 0"/>
+  </joint>
+
+  <joint name="leg3_joint" type="fixed">
+    <parent link="base_link"/>
+    <child link="leg3"/>
+    <origin xyz="-0.092 -0.092 0.02" rpy="0 0 0"/>
+  </joint>
+
+  <joint name="leg4_joint" type="fixed">
+    <parent link="base_link"/>
+    <child link="leg4"/>
+    <origin xyz="0.092 -0.092 0.02" rpy="0 0 0"/>
+  </joint>
+
+  <!-- Propeller-Base_link Joints -->
+  <joint name="propeller_0_joint" type="continuous">
+    <parent link="base_link"/>
+    <child link="propeller_0"/>
+    <origin xyz="0.092 0.092 0.08" rpy="0 0 -0.785398"/>
+    <axis xyz="0 0 1"/>
+  </joint>
+
+  <joint name="propeller_1_joint" type="continuous">
+    <parent link="base_link"/>
+    <child link="propeller_1"/>
+    <origin xyz="-0.092 0.092 0.08" rpy="0 0 0.785398"/>
+    <axis xyz="0 0 1"/>
+  </joint>
+
+  <joint name="propeller_2_joint" type="continuous">
+    <parent link="base_link"/>
+    <child link="propeller_2"/>
+    <origin xyz="-0.092 -0.092 0.08" rpy="0 0 -0.785398"/>
+    <axis xyz="0 0 1"/>
+  </joint>
+
+  <joint name="propeller_3_joint" type="continuous">
+    <parent link="base_link"/>
+    <child link="propeller_3"/>
+    <origin xyz="0.092 -0.092 0.08" rpy="0 0 0.785398"/>
+    <axis xyz="0 0 1"/>
+  </joint>
+
+</robot>
