@@ -1,26 +1,14 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "44738a81417fb3f8",
+    "id": "bdc7ee2b72d9e98b",
     "type": "split",
     "children": [
       {
-        "id": "2e202f09d95709e2",
+        "id": "f46c2483b8d03f07",
         "type": "tabs",
         "children": [
           {
-            "id": "8d0b40d245a87d9d",
-=======
-    "id": "5daa218ead4853b6",
-    "type": "split",
-    "children": [
-      {
-        "id": "fb821ba2102b5c9a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e4082891b41dedca",
->>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
+            "id": "a69ff9420a33969a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,27 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "cb0b10e912e240b1",
+    "id": "105c009ac6c2b67e",
     "type": "split",
     "children": [
       {
-        "id": "974e080e10e4d75c",
+        "id": "667a3e3e03b6551f",
         "type": "tabs",
         "children": [
           {
-            "id": "0aab891251cb565a",
-=======
-    "id": "154edc576d255d06",
-    "type": "split",
-    "children": [
-      {
-        "id": "7dca74a56cf5de33",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7ff3426afa821133",
->>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
+            "id": "6fd8b8fe6a3246a2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -67,11 +43,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "2215958fa8db951d",
-=======
-            "id": "ee3cc261e7c99250",
->>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
+            "id": "80e6eb8b3d7c9e45",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -86,11 +58,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "c6042520d9538894",
-=======
-            "id": "173c0c6e157c91c0",
->>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
+            "id": "7be5b366b48f6e8b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -104,27 +72,15 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "628efa4a6fed2c65",
+    "id": "f66fe728ea28e3d9",
     "type": "split",
     "children": [
       {
-        "id": "f3b80822aefa58be",
+        "id": "85a341981df81e92",
         "type": "tabs",
         "children": [
           {
-            "id": "583a0da846b02b28",
-=======
-    "id": "317d0e1b073a23bc",
-    "type": "split",
-    "children": [
-      {
-        "id": "5764f5ac864a24b3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0d5f9b462737ac5c",
->>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
+            "id": "0f11b18b103719fc",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -141,11 +97,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "026d3c2470b857fa",
-=======
-            "id": "c7feb181c5b818d5",
->>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
+            "id": "64bd14b1e44d472f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -157,11 +109,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "ad6bdfb64f05e1d8",
-=======
-            "id": "42d25c52134a1e1e",
->>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
+            "id": "5542efe81a637acf",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -172,11 +120,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "0361ba4aae971556",
-=======
-            "id": "211f1214b63046e9",
->>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
+            "id": "30e2600be60849c5",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -202,15 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "8d0b40d245a87d9d",
+  "active": "a69ff9420a33969a",
   "lastOpenFiles": []
-=======
-  "active": "e4082891b41dedca",
-  "lastOpenFiles": [
-    "Ignition Fortress Simulation.md",
-    "Drone Simulation(Humble PX4).md",
-    "Deployment and Startup of actual drone.md"
-  ]
->>>>>>> 2fe29a0bf2a6df53ee4170cd0669c3b68533c8be
 }
