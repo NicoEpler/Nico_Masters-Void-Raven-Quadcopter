@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "bdc7ee2b72d9e98b",
     "type": "split",
     "children": [
@@ -9,22 +10,47 @@
         "children": [
           {
             "id": "a69ff9420a33969a",
+=======
+    "id": "cd7455c09a74459f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b900e29d135596a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d355b28b49983327",
+>>>>>>> 9033752795aab56be4d264e2e7b5ed99ab3f732b
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drone Simulation(Humble PX4).md",
+                "file": "1. Drone Simulation(Humble PX4).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c04a669920f478f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Drone Simulation(Humble PX4).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "105c009ac6c2b67e",
     "type": "split",
     "children": [
@@ -34,6 +60,17 @@
         "children": [
           {
             "id": "6fd8b8fe6a3246a2",
+=======
+    "id": "3093f62325d745ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "9edb5d17bb406119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58ae649f680c3f92",
+>>>>>>> 9033752795aab56be4d264e2e7b5ed99ab3f732b
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +80,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "80e6eb8b3d7c9e45",
+=======
+            "id": "b168f6b17dce0263",
+>>>>>>> 9033752795aab56be4d264e2e7b5ed99ab3f732b
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +99,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "7be5b366b48f6e8b",
+=======
+            "id": "01e2042b906459bf",
+>>>>>>> 9033752795aab56be4d264e2e7b5ed99ab3f732b
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,6 +117,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "f66fe728ea28e3d9",
     "type": "split",
     "children": [
@@ -81,11 +127,22 @@
         "children": [
           {
             "id": "0f11b18b103719fc",
+=======
+    "id": "a366f4bfa0fc0fae",
+    "type": "split",
+    "children": [
+      {
+        "id": "8084abf07b8202c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c1120dca6f5db3f",
+>>>>>>> 9033752795aab56be4d264e2e7b5ed99ab3f732b
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drone Simulation(Humble PX4).md",
+                "file": "1. Drone Simulation(Humble PX4).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +154,27 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "64bd14b1e44d472f",
+=======
+            "id": "118606d889c98c88",
+>>>>>>> 9033752795aab56be4d264e2e7b5ed99ab3f732b
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drone Simulation(Humble PX4).md",
+                "file": "1. Drone Simulation(Humble PX4).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "5542efe81a637acf",
+=======
+            "id": "0e7eb684a7c7891b",
+>>>>>>> 9033752795aab56be4d264e2e7b5ed99ab3f732b
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +185,16 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "30e2600be60849c5",
+=======
+            "id": "8d69ea366e4fef85",
+>>>>>>> 9033752795aab56be4d264e2e7b5ed99ab3f732b
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drone Simulation(Humble PX4).md"
+                "file": "1. Drone Simulation(Humble PX4).md"
               }
             }
           }
@@ -146,6 +215,20 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "a69ff9420a33969a",
   "lastOpenFiles": []
+=======
+  "active": "1c04a669920f478f",
+  "lastOpenFiles": [
+    "1.3. Drone Sim in Nico Personal Workspace.md",
+    "1. Drone Simulation(Humble PX4).md",
+    "Untitled",
+    "Ignition Fortress Simulation.md",
+    "Ros2 Tutorial.md",
+    "1.2. Drone SLAM in Simulation.md",
+    "1.1. Setup of companion computer(Vim4).md",
+    "2. Deployment and Startup of actual drone.md"
+  ]
+>>>>>>> 9033752795aab56be4d264e2e7b5ed99ab3f732b
 }
