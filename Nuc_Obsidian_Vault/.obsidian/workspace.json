@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55c43f460524df5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xy_Ubuntu Installation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Drone Simulation(Humble PX4).md",
+                "file": "xy_Ubuntu Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Drone Simulation(Humble PX4).md",
+                "file": "xy_Ubuntu Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Drone Simulation(Humble PX4).md"
+                "file": "xy_Ubuntu Installation.md"
               }
             }
           }
@@ -159,12 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "602648dcb977ae8e",
+  "active": "55c43f460524df5b",
   "lastOpenFiles": [
+    "1. Drone Simulation(Humble PX4).md",
+    "xy_Ubuntu Installation.md",
     "xx_Hackathon.md",
     "1.1. Setup of companion computer(Vim4).md",
     "2. Deployment and Startup of actual drone.md",
-    "1. Drone Simulation(Humble PX4).md",
     "Ignition Fortress Simulation.md"
   ]
 }
