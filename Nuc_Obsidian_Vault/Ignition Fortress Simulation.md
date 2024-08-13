@@ -34,7 +34,9 @@ ign topic -t /X500/gazebo/command/motor_speed --msgtype ignition.msgs.Actuators 
 ```
 
 
-
+```Shell
+gz topic -t /x500_0/command/motor_speed --msgtype gz.msgs.Actuators -p 'velocity:[700, 700, 700, 700]'
+```
 
 
 
