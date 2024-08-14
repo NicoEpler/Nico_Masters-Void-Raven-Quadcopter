@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuc_Obsidian_Vault/2.2. Drone SLAM in Simulation.md",
+                "file": "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuc_Obsidian_Vault/2.2. Drone SLAM in Simulation.md",
+                "file": "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuc_Obsidian_Vault/2.2. Drone SLAM in Simulation.md",
+                "file": "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuc_Obsidian_Vault/2.2. Drone SLAM in Simulation.md"
+                "file": "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md"
               }
             }
           }
@@ -159,13 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d6bae59ad36ab8a",
+  "active": "cb816f626655869a",
   "lastOpenFiles": [
+    "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
+    "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
     "Pasted image 20240801085448.png",
     "Pasted image 20240801085159.png",
     "Pasted image 20240801084818.png",
     "Pasted image 20240801084526.png",
-    "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
     "Nuc_Obsidian_Vault/2.2. Drone SLAM in Simulation.md",
     "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md"
   ]
