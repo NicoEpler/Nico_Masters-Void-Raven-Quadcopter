@@ -25,7 +25,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
+=======
+                "file": "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
+>>>>>>> 537f45062a7ed338321bcf00008f88d2a44b0bf2
                 "mode": "source",
                 "source": false
               }
@@ -161,12 +165,28 @@
   "active": "cb816f626655869a",
   "lastOpenFiles": [
     "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
+<<<<<<< HEAD
+=======
+    "Nuc_Obsidian_Vault/xx_Hackathon.md",
+    "Nuc_Obsidian_Vault/Ros2 Tutorial.md",
+    "Nuc_Obsidian_Vault/Nico ToDo Extra mural.md",
+    "Nuc_Obsidian_Vault/Look into this Highly interesting Jaeyoung-Lim stuff.md",
+    "Nuc_Obsidian_Vault/Ignition Fortress Simulation.md",
+    "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md",
+    "Nuc_Obsidian_Vault/1.3. Drone Sim in Nico Personal Workspace.md",
+    "Nuc_Obsidian_Vault/1.2. Drone SLAM in Simulation.md",
+    "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
+>>>>>>> 537f45062a7ed338321bcf00008f88d2a44b0bf2
     "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
     "Pasted image 20240801085448.png",
     "Pasted image 20240801085159.png",
     "Pasted image 20240801084818.png",
     "Pasted image 20240801084526.png",
+<<<<<<< HEAD
     "Nuc_Obsidian_Vault/2.2. Drone SLAM in Simulation.md",
     "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md"
+=======
+    "Nuc_Obsidian_Vault/2.2. Drone SLAM in Simulation.md"
+>>>>>>> 537f45062a7ed338321bcf00008f88d2a44b0bf2
   ]
 }
