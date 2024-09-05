@@ -1,39 +1,19 @@
 {
   "main": {
-    "id": "13a97585bb21c9a3",
+    "id": "adb20e4314e77dab",
     "type": "split",
     "children": [
       {
-        "id": "cc550d7bc3692185",
+        "id": "74dccd9d2ed28165",
         "type": "tabs",
         "children": [
           {
-            "id": "cb816f626655869a",
+            "id": "5af1520ecf37b719",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d6bae59ad36ab8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
-=======
-<<<<<<< HEAD
-                "file": "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
-=======
-                "file": "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
->>>>>>> 537f45062a7ed338321bcf00008f88d2a44b0bf2
->>>>>>> f7a4dfa1c889eddd4d26200c0dd2c00b7e01f243
+                "file": "Nuc_Obsidian_Vault/Drone business/8. Other Useful Things.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9f000b3f8e638e5f",
+    "id": "13f156843b72db47",
     "type": "split",
     "children": [
       {
-        "id": "a5053eb8f173f17e",
+        "id": "8e10198d640beebd",
         "type": "tabs",
         "children": [
           {
-            "id": "53d90149c01b55af",
+            "id": "2714777f77301c35",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +43,7 @@
             }
           },
           {
-            "id": "709296bb24156122",
+            "id": "d2ca7daa932a6c53",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +58,7 @@
             }
           },
           {
-            "id": "33d250333888e2c5",
+            "id": "0cb4c237e4ba3bed",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "d9ef89163c096ad3",
+    "id": "4433abc07b7e6855",
     "type": "split",
     "children": [
       {
-        "id": "183574133c1da97d",
+        "id": "67d0c5f10e93ce78",
         "type": "tabs",
         "children": [
           {
-            "id": "a37b9ef2a42c4e48",
+            "id": "b58f04ef2c01f2ad",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
+                "file": "Nuc_Obsidian_Vault/Drone business/8. Other Useful Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,19 +97,19 @@
             }
           },
           {
-            "id": "cea8bc7bbe4e9e91",
+            "id": "03a7091be74ac2bd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
+                "file": "Nuc_Obsidian_Vault/Drone business/8. Other Useful Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d7e7ef387a34baaa",
+            "id": "e3198d07d3c733cb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,12 +120,12 @@
             }
           },
           {
-            "id": "5561e36e98d38c6c",
+            "id": "3a19eb1b3ba74eeb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md"
+                "file": "Nuc_Obsidian_Vault/Drone business/8. Other Useful Things.md"
               }
             }
           }
@@ -166,47 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "53d90149c01b55af",
+  "active": "5af1520ecf37b719",
   "lastOpenFiles": [
-    "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md",
+    "Nuc_Obsidian_Vault/Drone business/1. Using DJI VTX with other FC.md",
+    "Nuc_Obsidian_Vault/Drone business/8. Other Useful Things.md",
     "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
-    "Nuc_Obsidian_Vault/1.2. Drone SLAM in Simulation.md",
-    "Nuc_Obsidian_Vault/1.3. Drone Sim in Nico Personal Workspace.md",
-    "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
-    "Nuc_Obsidian_Vault/Look into this Highly interesting Jaeyoung-Lim stuff.md",
-=======
-  "active": "cb816f626655869a",
-  "lastOpenFiles": [
-    "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
-<<<<<<< HEAD
-=======
->>>>>>> f7a4dfa1c889eddd4d26200c0dd2c00b7e01f243
-    "Nuc_Obsidian_Vault/xx_Hackathon.md",
-    "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
-    "Untitled.canvas",
-    "2024-08-13.md",
-    "Nuc_Obsidian_Vault/Ros2 Tutorial.md",
-    "Nuc_Obsidian_Vault/Nico ToDo Extra mural.md",
-    "Nuc_Obsidian_Vault/Ignition Fortress Simulation.md",
-<<<<<<< HEAD
-=======
-    "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md",
-    "Nuc_Obsidian_Vault/1.3. Drone Sim in Nico Personal Workspace.md",
-    "Nuc_Obsidian_Vault/1.2. Drone SLAM in Simulation.md",
-    "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
->>>>>>> 537f45062a7ed338321bcf00008f88d2a44b0bf2
-    "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
->>>>>>> f7a4dfa1c889eddd4d26200c0dd2c00b7e01f243
-    "Pasted image 20240801085448.png",
-    "Pasted image 20240801085159.png",
-    "Pasted image 20240801084818.png",
-    "Pasted image 20240801084526.png",
-<<<<<<< HEAD
-    "Nuc_Obsidian_Vault/2.2. Drone SLAM in Simulation.md",
-    "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md"
-=======
-    "Nuc_Obsidian_Vault/2.2. Drone SLAM in Simulation.md"
->>>>>>> 537f45062a7ed338321bcf00008f88d2a44b0bf2
+    "Nuc_Obsidian_Vault/To Buy....md",
+    "Nuc_Obsidian_Vault/Drone business",
+    "rqt_graph.png",
+    "Untitled.canvas"
   ]
 }
