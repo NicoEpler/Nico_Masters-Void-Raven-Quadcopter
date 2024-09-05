@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "adb20e4314e77dab",
     "type": "split",
     "children": [
@@ -9,11 +10,26 @@
         "children": [
           {
             "id": "5af1520ecf37b719",
+=======
+    "id": "81a28fda44d591ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "d37e5a00f7d40e18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6db0e418a680eb2",
+>>>>>>> 8ab3b428aed11324f1c31ac6c0fab95d2a81abe4
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Nuc_Obsidian_Vault/Drone business/8. Other Useful Things.md",
+=======
+                "file": "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
+>>>>>>> 8ab3b428aed11324f1c31ac6c0fab95d2a81abe4
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +41,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "13f156843b72db47",
     "type": "split",
     "children": [
@@ -34,6 +51,17 @@
         "children": [
           {
             "id": "2714777f77301c35",
+=======
+    "id": "dd3d4ed5b8111233",
+    "type": "split",
+    "children": [
+      {
+        "id": "43962c3b769725c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d29ee7a66aa1f9be",
+>>>>>>> 8ab3b428aed11324f1c31ac6c0fab95d2a81abe4
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +71,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "d2ca7daa932a6c53",
+=======
+            "id": "55b3875ab1775f74",
+>>>>>>> 8ab3b428aed11324f1c31ac6c0fab95d2a81abe4
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +90,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "0cb4c237e4ba3bed",
+=======
+            "id": "92482c3ebe92c0aa",
+>>>>>>> 8ab3b428aed11324f1c31ac6c0fab95d2a81abe4
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,6 +108,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "4433abc07b7e6855",
     "type": "split",
     "children": [
@@ -81,11 +118,26 @@
         "children": [
           {
             "id": "b58f04ef2c01f2ad",
+=======
+    "id": "fbf12bfa83414deb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ab2ee495175cfb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a647129b2d79beb6",
+>>>>>>> 8ab3b428aed11324f1c31ac6c0fab95d2a81abe4
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Nuc_Obsidian_Vault/Drone business/8. Other Useful Things.md",
+=======
+                "file": "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
+>>>>>>> 8ab3b428aed11324f1c31ac6c0fab95d2a81abe4
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +149,31 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "03a7091be74ac2bd",
+=======
+            "id": "63802cda05b81e5e",
+>>>>>>> 8ab3b428aed11324f1c31ac6c0fab95d2a81abe4
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Nuc_Obsidian_Vault/Drone business/8. Other Useful Things.md",
+=======
+                "file": "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
+>>>>>>> 8ab3b428aed11324f1c31ac6c0fab95d2a81abe4
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "e3198d07d3c733cb",
+=======
+            "id": "c902b5c87626bb02",
+>>>>>>> 8ab3b428aed11324f1c31ac6c0fab95d2a81abe4
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +184,20 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "3a19eb1b3ba74eeb",
+=======
+            "id": "712f790c59deff39",
+>>>>>>> 8ab3b428aed11324f1c31ac6c0fab95d2a81abe4
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Nuc_Obsidian_Vault/Drone business/8. Other Useful Things.md"
+=======
+                "file": "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md"
+>>>>>>> 8ab3b428aed11324f1c31ac6c0fab95d2a81abe4
               }
             }
           }
@@ -146,6 +218,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "5af1520ecf37b719",
   "lastOpenFiles": [
     "Nuc_Obsidian_Vault/Drone business/1. Using DJI VTX with other FC.md",
@@ -155,5 +228,19 @@
     "Nuc_Obsidian_Vault/Drone business",
     "rqt_graph.png",
     "Untitled.canvas"
+=======
+  "active": "a6db0e418a680eb2",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2024-08-13.md",
+    "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
+    "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
+    "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
+    "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic",
+    "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
+    "Nuc_Obsidian_Vault/1.2. Drone SLAM in Simulation.md",
+    "Nuc_Obsidian_Vault/1.3. Drone Sim in Nico Personal Workspace.md",
+    "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md"
+>>>>>>> 8ab3b428aed11324f1c31ac6c0fab95d2a81abe4
   ]
 }
