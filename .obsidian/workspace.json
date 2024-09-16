@@ -146,6 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "0d71b62aeca159b9",
   "lastOpenFiles": []
+=======
+  "active": "0cf0da4e1ecb2a62",
+  "lastOpenFiles": [
+    "Nuc_Obsidian_Vault/Drone business/1.2. SLAM on PX4 offboard computer.md",
+    "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
+    "Nuc_Obsidian_Vault/1.2. Drone SLAM in Simulation.md",
+    "Nuc_Obsidian_Vault/1.3. Drone Sim in Nico Personal Workspace.md",
+    "Nuc_Obsidian_Vault/To Buy....md",
+    "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
+    "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
+    "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
+    "Nuc_Obsidian_Vault/Drone business/8. Other Useful Things.md",
+    "Nuc_Obsidian_Vault/Drone business/1. Using DJI VTX with other FC.md"
+  ]
+>>>>>>> 605eda1a26da7659f82e0fba0fef31c9a4932329
 }
