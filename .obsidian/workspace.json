@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "91ff27bed5daefdf",
+    "id": "7bafc0f739260035",
     "type": "split",
     "children": [
       {
-        "id": "280b652ee5be3419",
+        "id": "a2f853e5206345c6",
         "type": "tabs",
         "children": [
           {
-            "id": "0cf0da4e1ecb2a62",
+            "id": "0d71b62aeca159b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
-=======
-                "file": "Nuc_Obsidian_Vault/Drone business/1.2. SLAM on PX4 offboard computer.md",
->>>>>>> 33344ac41e9d32f86297f60339b8ff815b1ea25b
+                "file": "Nuc_Obsidian_Vault/1.2. Drone SLAM in Simulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "25497b61df99d27c",
+    "id": "639649bc4db75504",
     "type": "split",
     "children": [
       {
-        "id": "bf768f7c8574cf57",
+        "id": "89be4c14dc65ec05",
         "type": "tabs",
         "children": [
           {
-            "id": "dc6e3d422d7ec3c6",
+            "id": "7335918454310548",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "33d2ddacbc5c23ac",
+            "id": "45da060e15245cfa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "9f482558fe3b05eb",
+            "id": "c915c29294b37695",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,24 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "5077edcda0a07df5",
+    "id": "51010e9c4d84f8d4",
     "type": "split",
     "children": [
       {
-        "id": "d13ec4dbd0362a74",
+        "id": "a4cd742d0ea06054",
         "type": "tabs",
         "children": [
           {
-            "id": "294858e0dc74202d",
+            "id": "5c06946fa35fdf58",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
-=======
-                "file": "Nuc_Obsidian_Vault/Drone business/1.2. SLAM on PX4 offboard computer.md",
->>>>>>> 33344ac41e9d32f86297f60339b8ff815b1ea25b
+                "file": "Nuc_Obsidian_Vault/1.2. Drone SLAM in Simulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,23 +97,19 @@
             }
           },
           {
-            "id": "a76cd1f42c727271",
+            "id": "a17e66b437027f59",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
-=======
-                "file": "Nuc_Obsidian_Vault/Drone business/1.2. SLAM on PX4 offboard computer.md",
->>>>>>> 33344ac41e9d32f86297f60339b8ff815b1ea25b
+                "file": "Nuc_Obsidian_Vault/1.2. Drone SLAM in Simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f44ad20e7510ff24",
+            "id": "a3a913a7621b5d67",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,16 +120,12 @@
             }
           },
           {
-            "id": "250593ed66cac12a",
+            "id": "9c4f1a13ea8b95e4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md"
-=======
-                "file": "Nuc_Obsidian_Vault/Drone business/1.2. SLAM on PX4 offboard computer.md"
->>>>>>> 33344ac41e9d32f86297f60339b8ff815b1ea25b
+                "file": "Nuc_Obsidian_Vault/1.2. Drone SLAM in Simulation.md"
               }
             }
           }
@@ -162,26 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cf0da4e1ecb2a62",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
-    "Untitled.canvas",
-    "2024-08-13.md",
-    "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
-    "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
-    "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic",
-=======
->>>>>>> 33344ac41e9d32f86297f60339b8ff815b1ea25b
-    "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
-    "Nuc_Obsidian_Vault/Drone business/1.2. SLAM on PX4 offboard computer.md",
-    "Nuc_Obsidian_Vault/1.2. Drone SLAM in Simulation.md",
-    "Nuc_Obsidian_Vault/1.3. Drone Sim in Nico Personal Workspace.md",
-    "Nuc_Obsidian_Vault/To Buy....md",
-    "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
-    "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
-    "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
-    "Nuc_Obsidian_Vault/Drone business/8. Other Useful Things.md",
-    "Nuc_Obsidian_Vault/Drone business/1. Using DJI VTX with other FC.md"
-  ]
+  "active": "0d71b62aeca159b9",
+  "lastOpenFiles": []
 }
