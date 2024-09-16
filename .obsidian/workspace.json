@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
+                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
+                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
+                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md"
+                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "a6db0e418a680eb2",
   "lastOpenFiles": [
+    "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
     "Untitled.canvas",
     "2024-08-13.md",
     "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
-    "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
     "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
     "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic",
     "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
