@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b72858e8bb495812",
+        "id": "39e49e1b8043c8fe",
         "type": "tabs",
         "children": [
           {
-            "id": "e03b3a3b502d8948",
+            "id": "b6a51b14f7dc2638",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuc_Obsidian_Vault/1.2. Drone SLAM in Simulation.md",
+                "file": "Nuc_Obsidian_Vault/Look into this Highly interesting Jaeyoung-Lim stuff.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuc_Obsidian_Vault/1.2. Drone SLAM in Simulation.md",
+                "file": "Nuc_Obsidian_Vault/Look into this Highly interesting Jaeyoung-Lim stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuc_Obsidian_Vault/1.2. Drone SLAM in Simulation.md",
+                "file": "Nuc_Obsidian_Vault/Look into this Highly interesting Jaeyoung-Lim stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuc_Obsidian_Vault/1.2. Drone SLAM in Simulation.md"
+                "file": "Nuc_Obsidian_Vault/Look into this Highly interesting Jaeyoung-Lim stuff.md"
               }
             }
           }
@@ -146,9 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e03b3a3b502d8948",
+  "active": "b6a51b14f7dc2638",
   "lastOpenFiles": [
+    "Nuc_Obsidian_Vault/Ros2 Tutorial.md",
+    "Nuc_Obsidian_Vault/Nico ToDo Extra mural.md",
     "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
-    "Nuc_Obsidian_Vault/1.2. Drone SLAM in Simulation.md"
+    "Nuc_Obsidian_Vault/1.2. Drone SLAM Testing.md"
   ]
 }
