@@ -82,4 +82,3 @@ ros2 launch ros_gz_example_bringup diff_drive.launch.py
 ```
 
 
->>>>>>> 0c6e5aae7aa30cd8f661bc879cc3f22a3682d356
