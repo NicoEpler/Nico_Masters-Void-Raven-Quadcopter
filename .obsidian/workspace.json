@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "39e49e1b8043c8fe",
+        "id": "0cecfd8932e6b558",
         "type": "tabs",
         "children": [
           {
-            "id": "b6a51b14f7dc2638",
+            "id": "b11c3f01d6af108d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuc_Obsidian_Vault/Drone business/8. Other Useful Things.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc615a69e7c7ce9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuc_Obsidian_Vault/0. To Investigate.md",
+                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuc_Obsidian_Vault/0. To Investigate.md",
+                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuc_Obsidian_Vault/0. To Investigate.md",
+                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuc_Obsidian_Vault/0. To Investigate.md"
+                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md"
               }
             }
           }
@@ -159,19 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc615a69e7c7ce9f",
+  "active": "b11c3f01d6af108d",
   "lastOpenFiles": [
+    "Nuc_Obsidian_Vault/0. To Investigate.md",
+    "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
+    "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md",
+    "Nuc_Obsidian_Vault/Drone business/8. Other Useful Things.md",
+    "Nuc_Obsidian_Vault/To Buy....md",
     "Nuc_Obsidian_Vault/xx_Hackathon.md",
     "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
     "Nuc_Obsidian_Vault/Ros2 Tutorial.md",
     "Nuc_Obsidian_Vault/Ignition Fortress Simulation.md",
-    "Nuc_Obsidian_Vault/0. To Investigate.md",
     "Nuc_Obsidian_Vault/Look into this Highly interesting Jaeyoung-Lim stuff.md",
     "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
     "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
-    "Nuc_Obsidian_Vault/Drone business/8. Other Useful Things.md",
     "Nuc_Obsidian_Vault/Nico ToDo Extra mural.md",
-    "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
     "Nuc_Obsidian_Vault/1.2. Drone SLAM Testing.md"
   ]
 }
