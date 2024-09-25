@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
+                "file": "Nuc_Obsidian_Vault/To Buy....md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
+                "file": "Nuc_Obsidian_Vault/To Buy....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
+                "file": "Nuc_Obsidian_Vault/To Buy....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md"
+                "file": "Nuc_Obsidian_Vault/To Buy....md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b11c3f01d6af108d",
   "lastOpenFiles": [
-    "Nuc_Obsidian_Vault/0. To Investigate.md",
     "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
+    "Nuc_Obsidian_Vault/0. To Investigate.md",
     "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md",
     "Nuc_Obsidian_Vault/Drone business/8. Other Useful Things.md",
     "Nuc_Obsidian_Vault/To Buy....md",
