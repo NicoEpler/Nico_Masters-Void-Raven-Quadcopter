@@ -1,4 +1,5 @@
-From [ROS2 Tutorial video](https://www.youtube.com/watch?v=Gg25GfA456o&list=PLLSegLrePWgJk6dfV-UXSh2TZ74wNntWt&index=1)
+
+# From [ROS2 Tutorial video](https://www.youtube.com/watch?v=Gg25GfA456o&list=PLLSegLrePWgJk6dfV-UXSh2TZ74wNntWt&index=1)
 
 
 1. To see a graph of all running topics and nodes:
@@ -198,7 +199,136 @@ class DrawCircleNode(Node):
 2. Very explanatory tutorial on robot_state_publisher and joint_state_publisher from "The Construct" ins [here](https://www.youtube.com/watch?v=9BdAkrX4Xkg) 37:00
 
 
+# Setup ROS2 Workspace, Create package, Add Node, build packages, Running Nodes:
 
+### Step 1: Set Up Your ROS 2 Workspace
 
+If you haven't already set up a ROS 2 workspace, do so first. This workspace will house your node and its packages.
+1. **Create a workspace directory (if not already existing):**
+```bash
+mkdir -p ~/ros2_ws/src
+```
+   This creates a folder named `ros2_ws` with a `src` subfolder for source code.
+2. **Navigate to the workspace:**
+
+```bash
+cd ~/ros2_ws
+```
+1. **Initialize the workspace:**
+```bash
+colcon build
+```
+### Step 2: Create a Package
+Now you'll create a ROS 2 package to contain your node.
+1. **Navigate to the `src` folder:**
+```bash
+cd ~/ros2_ws/src
+```
+1. **Create a new ROS 2 package (replace `imu_position_pkg` with your preferred package name):**
+```bash
+ros2 pkg create imu_position_pkg --build-type ament_python --dependencies rclpy sensor_msgs geometry_msgs
+```
+   This command sets up a Python-based package with dependencies on `rclpy`, `sensor_msgs`, and `geometry_msgs`.
+3. **Navigate to your package directory:**
+```bash
+cd imu_position_pkg
+```
+  
+### Step 3: Add the Node Code
+Add the provided Python code to your package.
+1. **Create a `scripts` directory to store your node script:**
+```bash
+mkdir scripts
+```
+1. **Create the node script (e.g., `imu_position_node.py`):**
+```bash
+touch scripts/imu_position_node.py
+```
+1. **Open the script file in a text editor (e.g., `nano`):**
+```bash
+nano scripts/imu_position_node.py
+```
+   - Paste the provided code into this file.
+   - Save and exit the editor (`CTRL+X`, then `Y`, then `Enter` for `nano`).
+4. **Make the script executable:**
+```bash
+chmod +x scripts/imu_position_node.py
+```
+  
+
+### Step 4: Update `setup.py`
+Modify `setup.py` to include your node script.
+1. Go to directory:
+```bash
+cd ~/ros2_ws/src/imu_position_pkg
+```
+3. **Open `setup.py` in an editor:**
+```bash
+nano setup.py
+```
+1. **Add the entry point for the node.** Update `setup.py` to look something like this:
+```python
+from setuptools import setup
+
+package_name = 'imu_position_pkg'
+
+setup(
+	name=package_name,
+	version='0.0.0',
+	packages=[package_name],
+	py_modules=[
+		'scripts.imu_position_node'
+	],
+	install_requires=['setuptools'],
+	zip_safe=True,
+	maintainer='your_name',
+	maintainer_email='your_email@example.com',
+	description='IMU Position Node',
+	license='Your License Here',
+	tests_require=['pytest'],
+	entry_points={
+		'console_scripts': [
+			'imu_position_node = scripts.imu_position_node:main'
+		],
+	},
+)
+```
+   - Make sure `scripts.imu_position_node:main` matches the path to your script and its main function.
+   - Save and exit the editor.
+
+### Step 5: Build the Package
+You need to build your package so ROS 2 can recognize it.
+1. **Navigate to the root of your workspace:**
+```bash
+cd ~/ros2_ws
+```
+1. **Build the workspace:**
+```bash
+colcon build
+```
+1. **Source the workspace setup file to use your new package:**
+```bash
+source install/setup.bash
+```
+   Add the following command to your `source ~/.bashrc` file to source the workspace automatically each time you open a terminal:
+```bash
+source ~/ros2_ws/install/setup.bash
+```
+### Step 6: Run the Node
+Now you can run your node!
+1. **Run your node using `ros2 run`:**
+```bash
+ros2 run imu_position_pkg imu_position_node
+```
+   This command runs the `imu_position_node` from the `imu_position_pkg` package.
+
+### Step 7: Monitor the Output
+To verify that your node is working:
+- **Check the logs**: The node will log position updates (in debug mode).
+- **View the `/imu/calc/position` topic**: You can use `ros2 topic echo` to see the messages published to this topic:
+```bash
+ros2 topic echo /imu/calc/position --once
+```
+"--once" makes sure only a single instance is echoed
 
 
