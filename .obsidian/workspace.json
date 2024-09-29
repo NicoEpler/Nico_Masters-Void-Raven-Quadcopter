@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuc_Obsidian_Vault/To Buy....md",
+                "file": "Nuc_Obsidian_Vault/0. To Investigate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuc_Obsidian_Vault/To Buy....md",
+                "file": "Nuc_Obsidian_Vault/0. To Investigate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nuc_Obsidian_Vault/To Buy....md",
+                "file": "Nuc_Obsidian_Vault/0. To Investigate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuc_Obsidian_Vault/To Buy....md"
+                "file": "Nuc_Obsidian_Vault/0. To Investigate.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "b11c3f01d6af108d",
   "lastOpenFiles": [
-    "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
-    "Nuc_Obsidian_Vault/0. To Investigate.md",
-    "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md",
+    "Nuc_Obsidian_Vault/1.2. SLAM on PX4 offboard computer.md",
+    "Nuc_Obsidian_Vault/Drone business/1. Using DJI VTX with other FC.md",
     "Nuc_Obsidian_Vault/Drone business/8. Other Useful Things.md",
+    "Nuc_Obsidian_Vault/0. To Investigate.md",
     "Nuc_Obsidian_Vault/To Buy....md",
+    "Nuc_Obsidian_Vault/1.1. Setup of companion computer(Vim4).md",
+    "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md",
     "Nuc_Obsidian_Vault/xx_Hackathon.md",
     "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
     "Nuc_Obsidian_Vault/Ros2 Tutorial.md",
