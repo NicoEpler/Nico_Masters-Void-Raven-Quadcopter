@@ -51,6 +51,20 @@ sudo snap install obsidian --classic
 ```
 - Open folder as vault, to access this file
 
+# Single Command (Chrome, terminator, Python)
+```bash
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+sudo apt install -f
+sudo apt update
+sudo apt upgrade 
+sudo apt install terminator
+sudo apt install python3
+sudo apt install python3-pip
+#sudo apt install python3-colcon-common-extensions
+pip install -U colcon-common-extensions
+```
+
 # Chrome
 ```bash
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
