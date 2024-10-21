@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
+                "file": "Nuc_Obsidian_Vault/2.2. PX4 Offboard Control Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "xy_Ubuntu Installation"
+              "title": "2.2. PX4 Offboard Control Flow"
             }
           }
         ]
@@ -164,17 +164,17 @@
   },
   "active": "76550d976d4a8b4d",
   "lastOpenFiles": [
-    "Nuc_Obsidian_Vault/2.2. PX4 Offboard Control Flow.md",
+    "Nuc_Obsidian_Vault/3. Algorithms used and explained.md",
     "Nuc_Obsidian_Vault/2.1. Setup of companion computer(Vim4).md",
-    "Nuc_Obsidian_Vault/To Buy....md",
     "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
     "Nuc_Obsidian_Vault/1.2. Drone SLAM Testing.md",
     "Nuc_Obsidian_Vault/1.3. Drone Sim in Nico Personal Workspace.md",
-    "Nuc_Obsidian_Vault/0. To Investigate.md",
-    "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
-    "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
-    "Nuc_Obsidian_Vault/3. Algorithms used and explained.md",
+    "Nuc_Obsidian_Vault/2.2. PX4 Offboard Control Flow.md",
     "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md",
+    "Nuc_Obsidian_Vault/To Buy....md",
+    "Nuc_Obsidian_Vault/0. To Investigate.md",
+    "Nuc_Obsidian_Vault/xy_Ubuntu Installation.md",
+    "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
     "Nuc_Obsidian_Vault/zz_Other_Nico_Stuff/1. Cool Youtube Channels.md",
     "Nuc_Obsidian_Vault/99. Random things to keep in mind and consider for thesis project..md",
     "Nuc_Obsidian_Vault/zz_Other_Nico_Stuff",

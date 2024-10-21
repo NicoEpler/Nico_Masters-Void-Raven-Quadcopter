@@ -15,6 +15,7 @@
 	3. [Github-An example-based DepthAI ROS2 driver](https://github.com/Serafadam/depthai_ros_driver) 
 	4. [DepthAI ROS](https://docs.luxonis.com/software/ros/depthai-ros/) 
 	5. [OAK-D Lite Camera — ROS2 Setup(Medium)](https://robofoundry.medium.com/oak-d-lite-camera-ros2-setup-1e74ed03350d) 
+	6. [Cam-to-drone_VIO](https://bitbucket.org/wvufarolab/cam_to_drone/src/master/)
 10.  1x [Battery Checker](https://flyingrobot.co/collections/battery-accessories/products/battery-checker-with-case) =R65
 11. 1x [Optical Flow with Lidar](https://flyingrobot.co/products/hereflow?variant=36427537154198&currency=ZAR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoprOoZaV37LUctjxwBjyW_9umD56SHlqsY_EzFUoqqB-dg8guzj7yc) R1700
 	1. [Connection](https://www.getfpv.com/cubepilot-visual-guide) and [Connection with Explaination](https://github.com/PX4/PX4-user_guide/blob/c03a25be2724e5d89e9ece47425423d5cd100a1d/en/sensor/pmw3901.md) 
