@@ -148,6 +148,17 @@ export ROS_LOCALHOST_ONLY=1
 ```
 [[ROS2 commands]] 
 
+## Test ROS2 Installation:
+1. In terminal 1 run:
+```bash
+ros2 run demo_nodes_cpp talker
+```
+
+2. In terminal 2 run:
+```bash
+ros2 run demo_nodes_py listener
+```
+
 
 # Slack
 ```bash
