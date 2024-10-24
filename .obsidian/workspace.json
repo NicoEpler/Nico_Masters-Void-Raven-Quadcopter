@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuc_Obsidian_Vault/2.2. PX4 Offboard Control Flow.md",
+                "file": "Nuc_Obsidian_Vault/2.3. PX4 Testing OAK-D Pro W RGBD CAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2. PX4 Offboard Control Flow"
+              "title": "2.3. PX4 Testing OAK-D Pro W RGBD CAM"
             }
           }
         ]
@@ -164,12 +164,16 @@
   },
   "active": "76550d976d4a8b4d",
   "lastOpenFiles": [
+    "Nuc_Obsidian_Vault/2.4. PX4 Offboard Control Flow.md",
+    "Nuc_Obsidian_Vault/2.2. PX4 Offboard Control Flow.md",
+    "Nuc_Obsidian_Vault/2.3. PX4 Testing OAK-D Pro W RGBD CAM.md",
+    "Nuc_Obsidian_Vault/2.2. PX4 Optical Flow Implementation.md",
+    "Nuc_Obsidian_Vault/2.1. Setup of companion computer.md",
     "Nuc_Obsidian_Vault/3. Algorithms used and explained.md",
     "Nuc_Obsidian_Vault/2.1. Setup of companion computer(Vim4).md",
     "Nuc_Obsidian_Vault/1. Drone Simulation(Humble PX4).md",
     "Nuc_Obsidian_Vault/1.2. Drone SLAM Testing.md",
     "Nuc_Obsidian_Vault/1.3. Drone Sim in Nico Personal Workspace.md",
-    "Nuc_Obsidian_Vault/2.2. PX4 Offboard Control Flow.md",
     "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md",
     "Nuc_Obsidian_Vault/To Buy....md",
     "Nuc_Obsidian_Vault/0. To Investigate.md",
