@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.3. PX4 Testing OAK-D Pro W RGBD CAM.md",
+                "file": "xy_Ubuntu Installation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3. PX4 Testing OAK-D Pro W RGBD CAM"
+              "title": "xy_Ubuntu Installation"
             }
           }
         ]
@@ -164,10 +164,16 @@
   },
   "active": "eb37b01380a1d0d4",
   "lastOpenFiles": [
+    "2.3. PX4 Testing OAK-D Pro W RGBD CAM.md",
+    "Screenshot from 2024-10-29 23-15-31.png",
+    "Screenshot from 2024-10-29 22-54-03.png",
+    "Pasted image 20241029224743.png",
+    "Screenshot from 2024-10-29 22-36-26.png",
+    "Screenshot from 2024-10-29 22-31-50.png",
+    "Screenshot from 2024-10-29 22-30-55.png",
     "2.4. PX4 Offboard Control Flow.md",
     "2.1. Setup of companion computer.md",
     "2.2. PX4 Optical Flow Implementation.md",
-    "2.3. PX4 Testing OAK-D Pro W RGBD CAM.md",
     "To Buy....md",
     "xy_Ubuntu Installation.md",
     "2. Deployment and Startup of actual drone.md",
