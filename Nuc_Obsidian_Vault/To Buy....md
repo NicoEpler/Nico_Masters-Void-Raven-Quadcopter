@@ -18,13 +18,18 @@
 9.  1x [Battery Checker](https://flyingrobot.co/collections/battery-accessories/products/battery-checker-with-case) =R65
 10. 1x [Optical Flow with Lidar](https://flyingrobot.co/products/hereflow?variant=36427537154198&currency=ZAR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoprOoZaV37LUctjxwBjyW_9umD56SHlqsY_EzFUoqqB-dg8guzj7yc) R1700
 13. 1x [EV Peak C1-XR Balance Charger 100W 10A](https://flyingrobot.co/collections/chargers/products/ev-peak-c1-xr-balance-charger-100w-10a) =R980
-14. DONE...NEXT
-15. 2x [Eachine TX805 5.8G 40CH 25/200/600/800mW FPV Transmitter](https://www.eachine.com/Eachine-TX805-5_8G-40CH-25-or-200-or-600-or-800mW-FPV-Transmitter-TX-LED-Display-Support-OSD-or-Pitmode-or-Smart-Audio-RP-SMA-Female-p-1234.html)
-16. ...CAM
-17. ...googles
-18. ...Heat Sink
-19. ...Voltage regulator
-20. ...IR Filter
+14. DONE...NEXT----------------------------------------------------------------------
+15.  [USB C Elbow joint](https://www.takealot.com/type-c-otg-adapter-5a-100w-female-to-male-40gbps-usb-4-0/PLID95435087?gad_source=1&gclid=Cj0KCQjw1Yy5BhD-ARIsAI0RbXZIhGR0__IRD-8Va7-LUs6BXUUvIF0BV1zB-wOuhqz4SvtUsvr2kXcaAuk4EALw_wcB&gclsrc=aw.ds&gclsrc=aw.ds) 
+16. Short USB C cable
+17. Bright LED
+	1. ![[Screenshot from 2024-11-04 16-10-14 1.png]]
+	2. RMF OWL had 1000Lm
+18. 2x [Eachine TX805 5.8G 40CH 25/200/600/800mW FPV Transmitter](https://www.eachine.com/Eachine-TX805-5_8G-40CH-25-or-200-or-600-or-800mW-FPV-Transmitter-TX-LED-Display-Support-OSD-or-Pitmode-or-Smart-Audio-RP-SMA-Female-p-1234.html)
+19. ...CAM
+20. ...googles
+21. ...Heat Sink
+22. ...Voltage regulator
+23. ...IR Filter
 
 
 
