@@ -22,14 +22,16 @@
 15.  [USB C Elbow joint](https://www.takealot.com/type-c-otg-adapter-5a-100w-female-to-male-40gbps-usb-4-0/PLID95435087?gad_source=1&gclid=Cj0KCQjw1Yy5BhD-ARIsAI0RbXZIhGR0__IRD-8Va7-LUs6BXUUvIF0BV1zB-wOuhqz4SvtUsvr2kXcaAuk4EALw_wcB&gclsrc=aw.ds&gclsrc=aw.ds) 
 16. Short USB C cable
 17. Bright LED
-	1. ![[Screenshot from 2024-11-04 16-10-14 1.png]]
-	2. RMF OWL had 1000Lm
-18. 2x [Eachine TX805 5.8G 40CH 25/200/600/800mW FPV Transmitter](https://www.eachine.com/Eachine-TX805-5_8G-40CH-25-or-200-or-600-or-800mW-FPV-Transmitter-TX-LED-Display-Support-OSD-or-Pitmode-or-Smart-Audio-RP-SMA-Female-p-1234.html)
-19. ...CAM
-20. ...googles
-21. ...Heat Sink
-22. ...Voltage regulator
-23. ...IR Filter
+	1. [RGBW LED](https://www.mantech.co.za/ProductInfo.aspx?Item=35M6024) (170Lm; R210; Mant) or [RGBW LED](https://www.mantech.co.za/ProductInfo.aspx?Item=35M7430) (220Lm; R89; Mant) or [RGBW](https://za.rs-online.com/web/p/leds/1814332?gb=s) (710Lm; R395; RS)
+	2. [W LED](https://www.mantech.co.za/ProductInfo.aspx?Item=14M8555-X) (153Lm; R101; Mant) or [W LED](https://za.rs-online.com/web/p/leds/7743000) (760Lm; R270; RS)
+	3. ![[Screenshot from 2024-11-04 16-10-14 1.png]]
+	4. RMF OWL had 1000Lm
+19. 2x [Eachine TX805 5.8G 40CH 25/200/600/800mW FPV Transmitter](https://www.eachine.com/Eachine-TX805-5_8G-40CH-25-or-200-or-600-or-800mW-FPV-Transmitter-TX-LED-Display-Support-OSD-or-Pitmode-or-Smart-Audio-RP-SMA-Female-p-1234.html)
+20. ...CAM
+21. ...googles
+22. ...Heat Sink
+23. ...Voltage regulator
+24. ...IR Filter
 
 
 

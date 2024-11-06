@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb37b01380a1d0d4",
+            "id": "07951f0faa4b1000",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,21 +36,35 @@
             }
           },
           {
-            "id": "eb46aa04b3b52c34",
+            "id": "3b437575605755d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Drone Simulation(Humble PX4).md",
+                "file": "2.3. PX4 Testing OAK-D Pro W RGBD CAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Drone Simulation(Humble PX4)"
+              "title": "2.3. PX4 Testing OAK-D Pro W RGBD CAM"
             }
           },
           {
-            "id": "3b437575605755d7",
+            "id": "28206afa6b9845ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.1. Setup of companion computer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1. Setup of companion computer"
+            }
+          },
+          {
+            "id": "049ede05ac3d316a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +77,8 @@
               "title": "2.1. Setup of companion computer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,25 +219,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb37b01380a1d0d4",
+  "active": "d65d7d0c4b2c8c95",
   "lastOpenFiles": [
-    "2.5. Mapping Test.md",
     "2.1. Setup of companion computer.md",
-    "3.1. Todo List.md",
+    "2.5. Mapping Test.md",
     "To Buy....md",
-    "2.2. PX4 Optical Flow Implementation.md",
+    "xy_Ubuntu Installation.md",
+    "99. Random things to keep in mind and consider for thesis project..md",
+    "3.1. Todo List.md",
+    "2.3. PX4 Testing OAK-D Pro W RGBD CAM.md",
     "1. Drone Simulation(Humble PX4).md",
+    "Ros2 Tutorial.md",
+    "2.2. PX4 Optical Flow Implementation.md",
+    "2.4. PX4 Offboard Control Flow.md",
+    "ROS2 Creating a node.md",
+    "Ignition Fortress Simulation.md",
+    "3. Algorithms used and explained.md",
     "Screenshot from 2024-11-04 16-10-14 1.png",
     "Screenshot from 2024-11-04 16-10-14.png",
-    "2.3. PX4 Testing OAK-D Pro W RGBD CAM.md",
-    "2.4. PX4 Offboard Control Flow.md",
-    "3. Algorithms used and explained.md",
-    "99. Random things to keep in mind and consider for thesis project..md",
-    "Ros2 Tutorial.md",
     "2. Deployment and Startup of actual drone.md",
     "1.3. Drone Sim in Nico Personal Workspace.md",
     "1.2. Drone SLAM Testing.md",
-    "xy_Ubuntu Installation.md",
     "Screenshot from 2024-10-29 23-15-31.png",
     "Screenshot from 2024-10-29 22-54-03.png",
     "Pasted image 20241029224743.png",
@@ -230,7 +247,6 @@
     "Screenshot from 2024-10-29 22-31-50.png",
     "Screenshot from 2024-10-29 22-30-55.png",
     "xx_Hackathon.md",
-    "1.1. Setup of companion computer(Vim4).md",
-    "Ignition Fortress Simulation.md"
+    "1.1. Setup of companion computer(Vim4).md"
   ]
 }
