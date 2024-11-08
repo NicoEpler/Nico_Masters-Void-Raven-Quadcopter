@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.1. Todo List.md",
+                "file": "2.1. Setup of companion computer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1. Todo List"
+              "title": "2.1. Setup of companion computer"
+            }
+          },
+          {
+            "id": "3f263a3a4207515d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.45 Positional Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.45 Positional Test"
             }
           },
           {
@@ -36,31 +50,31 @@
             }
           },
           {
+            "id": "2c3112767cecf6e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.6. Camera Performance comparison.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.6. Camera Performance comparison"
+            }
+          },
+          {
             "id": "3b437575605755d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.3. PX4 Testing OAK-D Pro W RGBD CAM.md",
+                "file": "2.3. Testing OAK-D Pro W RGBD CAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3. PX4 Testing OAK-D Pro W RGBD CAM"
-            }
-          },
-          {
-            "id": "28206afa6b9845ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.1. Setup of companion computer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.1. Setup of companion computer"
+              "title": "2.3. Testing OAK-D Pro W RGBD CAM"
             }
           },
           {
@@ -76,9 +90,22 @@
               "icon": "lucide-file",
               "title": "2.1. Setup of companion computer"
             }
+          },
+          {
+            "id": "55121548b12359c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xy_Ubuntu Installation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "xy_Ubuntu Installation"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,22 +246,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d65d7d0c4b2c8c95",
+  "active": "07951f0faa4b1000",
   "lastOpenFiles": [
-    "2.1. Setup of companion computer.md",
-    "2.5. Mapping Test.md",
-    "To Buy....md",
-    "xy_Ubuntu Installation.md",
-    "99. Random things to keep in mind and consider for thesis project..md",
     "3.1. Todo List.md",
-    "2.3. PX4 Testing OAK-D Pro W RGBD CAM.md",
+    "2.1. Setup of companion computer.md",
+    "2.3. Testing OAK-D Pro W RGBD CAM.md",
+    "2.45 Positional Test.md",
+    "2.5. Mapping Test.md",
+    "xy_Ubuntu Installation.md",
+    "2.6. Camera Performance comparison.md",
+    "3. Algorithms used and explained.md",
+    "To Buy....md",
+    "99. Random things to keep in mind and consider for thesis project..md",
     "1. Drone Simulation(Humble PX4).md",
     "Ros2 Tutorial.md",
     "2.2. PX4 Optical Flow Implementation.md",
     "2.4. PX4 Offboard Control Flow.md",
     "ROS2 Creating a node.md",
     "Ignition Fortress Simulation.md",
-    "3. Algorithms used and explained.md",
     "Screenshot from 2024-11-04 16-10-14 1.png",
     "Screenshot from 2024-11-04 16-10-14.png",
     "2. Deployment and Startup of actual drone.md",
