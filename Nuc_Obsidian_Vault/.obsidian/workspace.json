@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "84a3c824f6c4be4e",
+        "id": "dac1885aec135e74",
         "type": "tabs",
         "children": [
           {
-            "id": "07951f0faa4b1000",
+            "id": "b40ae20e5ca35cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.1. Todo List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1. Todo List"
+            }
+          },
+          {
+            "id": "112ea034623d6c8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,90 +36,35 @@
             }
           },
           {
-            "id": "3f263a3a4207515d",
+            "id": "de8d15e0095ebdb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.45 Positional Test.md",
+                "file": "3.1. Todo List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.45 Positional Test"
+              "title": "3.1. Todo List"
             }
           },
           {
-            "id": "d65d7d0c4b2c8c95",
+            "id": "8e02ccfe1ccc4a97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.5. Mapping Test.md",
+                "file": "2.5.5. ORB-SLAM3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5. Mapping Test"
-            }
-          },
-          {
-            "id": "2c3112767cecf6e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.6. Camera Performance comparison.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.6. Camera Performance comparison"
-            }
-          },
-          {
-            "id": "3b437575605755d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.3. Testing OAK-D Pro W RGBD CAM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.3. Testing OAK-D Pro W RGBD CAM"
-            }
-          },
-          {
-            "id": "049ede05ac3d316a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.1. Setup of companion computer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.1. Setup of companion computer"
-            }
-          },
-          {
-            "id": "55121548b12359c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xy_Ubuntu Installation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "xy_Ubuntu Installation"
+              "title": "2.5.5. ORB-SLAM3"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,27 +205,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07951f0faa4b1000",
+  "active": "8e02ccfe1ccc4a97",
   "lastOpenFiles": [
     "3.1. Todo List.md",
-    "2.1. Setup of companion computer.md",
-    "2.3. Testing OAK-D Pro W RGBD CAM.md",
-    "2.45 Positional Test.md",
-    "2.5. Mapping Test.md",
-    "xy_Ubuntu Installation.md",
-    "2.6. Camera Performance comparison.md",
     "3. Algorithms used and explained.md",
+    "2.5.5. ORB-SLAM3.md",
+    "2.5. Mapping Test.md",
+    "2.4.5 Positional Test and.md",
+    "2.1. Setup of companion computer.md",
     "To Buy....md",
-    "99. Random things to keep in mind and consider for thesis project..md",
-    "1. Drone Simulation(Humble PX4).md",
     "Ros2 Tutorial.md",
+    "2.3. Testing OAK-D Pro W RGBD CAM.md",
+    "2.6. Camera Performance comparison.md",
     "2.2. PX4 Optical Flow Implementation.md",
     "2.4. PX4 Offboard Control Flow.md",
+    "1. Drone Simulation(Humble PX4).md",
+    "2. Deployment and Startup of actual drone.md",
+    "xy_Ubuntu Installation.md",
+    "Screenshot from 2024-11-08 19-58-56.png",
+    "VIM4_Pinout Aligned.png",
+    "99. Random things to keep in mind and consider for thesis project..md",
     "ROS2 Creating a node.md",
     "Ignition Fortress Simulation.md",
     "Screenshot from 2024-11-04 16-10-14 1.png",
     "Screenshot from 2024-11-04 16-10-14.png",
-    "2. Deployment and Startup of actual drone.md",
     "1.3. Drone Sim in Nico Personal Workspace.md",
     "1.2. Drone SLAM Testing.md",
     "Screenshot from 2024-10-29 23-15-31.png",
