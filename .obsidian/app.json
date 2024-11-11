@@ -1,1 +1,5 @@
-{}
+{
+  "tabSize": 4,
+  "readableLineLength": true,
+  "strictLineBreaks": false
+}
