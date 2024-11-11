@@ -21,7 +21,8 @@
 14. DONE...NEXT----------------------------------------------------------------------
 15.  [USB C Elbow joint](https://www.takealot.com/type-c-otg-adapter-5a-100w-female-to-male-40gbps-usb-4-0/PLID95435087?gad_source=1&gclid=Cj0KCQjw1Yy5BhD-ARIsAI0RbXZIhGR0__IRD-8Va7-LUs6BXUUvIF0BV1zB-wOuhqz4SvtUsvr2kXcaAuk4EALw_wcB&gclsrc=aw.ds&gclsrc=aw.ds) 
 16. Short USB C cable
-17. Bright LED
+17. ORDERED--------------------------------------------------------------------
+18. Bright LED
 	1. [RGBW LED](https://www.mantech.co.za/ProductInfo.aspx?Item=35M6024) (170Lm; R210; Mant) or [RGBW LED](https://www.mantech.co.za/ProductInfo.aspx?Item=35M7430) (220Lm; R89; Mant) or [RGBW](https://za.rs-online.com/web/p/leds/1814332?gb=s) (710Lm; R395; RS)
 	2. [W LED](https://www.mantech.co.za/ProductInfo.aspx?Item=14M8555-X) (153Lm; R101; Mant) or [W LED](https://za.rs-online.com/web/p/leds/7743000) (760Lm; R270; RS)
 	3. ![[Screenshot from 2024-11-04 16-10-14 1.png]]
@@ -32,6 +33,10 @@
 22. ...Heat Sink
 23. ...Voltage regulator
 24. ...IR Filter
+25. [Nuts and bolts m2,2.5,3,4](https://www.rc-king.co.za/35-nuts-bolts-and-fasteners) 
+26. [M1 and M1.2 screws](https://www.sidewaysrc.co.za/product-category/screws_mesh/) 
+27. [All different types of small screws and bolts, incl. long ones](https://jixhobbies.co.za/search?type=product&q=screws) 
+28. [M3 to M6 bolts](https://nde3d.co.za/2207-bolts-nuts) 
 
 
 

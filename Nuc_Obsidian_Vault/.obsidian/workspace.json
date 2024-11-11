@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84a3c824f6c4be4e",
+        "id": "dac1885aec135e74",
         "type": "tabs",
         "children": [
           {
-            "id": "07951f0faa4b1000",
+            "id": "b40ae20e5ca35cd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,6 +22,7 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "d65d7d0c4b2c8c95",
             "type": "leaf",
             "state": {
@@ -51,6 +52,9 @@
           },
           {
             "id": "28206afa6b9845ea",
+=======
+            "id": "112ea034623d6c8a",
+>>>>>>> d795d27c5e85ebb6149e76b93c54415cc795f1e6
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,21 +68,34 @@
             }
           },
           {
-            "id": "049ede05ac3d316a",
+            "id": "de8d15e0095ebdb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.1. Setup of companion computer.md",
+                "file": "2.4.5 Positional Test and.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1. Setup of companion computer"
+              "title": "2.4.5 Positional Test and"
+            }
+          },
+          {
+            "id": "8e02ccfe1ccc4a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.6. Camera Performance comparison IR vs. OAK.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.6. Camera Performance comparison IR vs. OAK"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,25 +236,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d65d7d0c4b2c8c95",
+  "active": "b40ae20e5ca35cd4",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "2.5. Mapping Test.md",
     "2.1. Setup of companion computer.md",
     "To Buy....md",
     "xy_Ubuntu Installation.md",
     "99. Random things to keep in mind and consider for thesis project..md",
+=======
+    "2.1. Setup of companion computer.md",
+>>>>>>> d795d27c5e85ebb6149e76b93c54415cc795f1e6
     "3.1. Todo List.md",
-    "2.3. PX4 Testing OAK-D Pro W RGBD CAM.md",
-    "1. Drone Simulation(Humble PX4).md",
+    "2.5. Mapping Test.md",
+    "2.6. Camera Performance comparison IR vs. OAK.md",
+    "2.5.5. ORB-SLAM3.md",
+    "2.4.5 Positional Test and.md",
+    "3. Algorithms used and explained.md",
+    "To Buy....md",
     "Ros2 Tutorial.md",
+    "2.3. Testing OAK-D Pro W RGBD CAM.md",
     "2.2. PX4 Optical Flow Implementation.md",
     "2.4. PX4 Offboard Control Flow.md",
+    "1. Drone Simulation(Humble PX4).md",
+    "2. Deployment and Startup of actual drone.md",
+    "xy_Ubuntu Installation.md",
+    "Screenshot from 2024-11-08 19-58-56.png",
+    "VIM4_Pinout Aligned.png",
+    "99. Random things to keep in mind and consider for thesis project..md",
     "ROS2 Creating a node.md",
     "Ignition Fortress Simulation.md",
-    "3. Algorithms used and explained.md",
     "Screenshot from 2024-11-04 16-10-14 1.png",
     "Screenshot from 2024-11-04 16-10-14.png",
-    "2. Deployment and Startup of actual drone.md",
     "1.3. Drone Sim in Nico Personal Workspace.md",
     "1.2. Drone SLAM Testing.md",
     "Screenshot from 2024-10-29 23-15-31.png",
