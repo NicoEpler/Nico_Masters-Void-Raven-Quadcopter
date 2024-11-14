@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "3.1. Todo List"
             }
+          },
+          {
+            "id": "8f8abe4274ad521c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.2. PX4 Optical Flow Implementation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2. PX4 Optical Flow Implementation"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,8 +191,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3e1006c5e95af24",
+  "active": "8f8abe4274ad521c",
   "lastOpenFiles": [
+    "2.1. Setup of companion computer.md",
     "3.1. Todo List.md",
     "To Buy....md",
     "2.4.5 Positional Test and.md",
