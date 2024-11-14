@@ -1,14 +1,28 @@
 {
   "main": {
-    "id": "5492656e56fc6b0c",
+    "id": "0eb1ad38c9777099",
     "type": "split",
     "children": [
       {
-        "id": "dac1885aec135e74",
+        "id": "3ea4bec74cab3c12",
         "type": "tabs",
         "children": [
           {
-            "id": "b40ae20e5ca35cd4",
+            "id": "7985ff253054df76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Buy....md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Buy..."
+            }
+          },
+          {
+            "id": "e3e1006c5e95af24",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,97 +33,24 @@
               },
               "icon": "lucide-file",
               "title": "3.1. Todo List"
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "d65d7d0c4b2c8c95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.1. Todo List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.1. Todo List"
-            }
-          },
-          {
-            "id": "3b437575605755d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.3. PX4 Testing OAK-D Pro W RGBD CAM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.3. PX4 Testing OAK-D Pro W RGBD CAM"
-            }
-          },
-          {
-            "id": "28206afa6b9845ea",
-=======
-            "id": "112ea034623d6c8a",
->>>>>>> d795d27c5e85ebb6149e76b93c54415cc795f1e6
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.1. Setup of companion computer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.1. Setup of companion computer"
-            }
-          },
-          {
-            "id": "de8d15e0095ebdb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.4.5 Positional Test and.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.4.5 Positional Test and"
-            }
-          },
-          {
-            "id": "8e02ccfe1ccc4a97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.6. Camera Performance comparison IR vs. OAK.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.6. Camera Performance comparison IR vs. OAK"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cbf10d499533fbd5",
+    "id": "2a78e1110624922e",
     "type": "split",
     "children": [
       {
-        "id": "93ed671060ab3b52",
+        "id": "dfccfbeed52b05be",
         "type": "tabs",
         "children": [
           {
-            "id": "424a2e47afdb79a6",
+            "id": "b6ff73f7940a6faa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -121,7 +62,7 @@
             }
           },
           {
-            "id": "83ec4c29deeb8e8e",
+            "id": "39a5fb6ed972280c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -138,7 +79,7 @@
             }
           },
           {
-            "id": "a115ac20f063b135",
+            "id": "13b0ff0483312d6d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -154,20 +95,20 @@
     "width": 300
   },
   "right": {
-    "id": "7c806a9841178723",
+    "id": "48d27af4cc7db81b",
     "type": "split",
     "children": [
       {
-        "id": "37c9291d05025924",
+        "id": "48f785fea15c75db",
         "type": "tabs",
         "children": [
           {
-            "id": "482c031d9b672f30",
+            "id": "602acb4076fd454c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.3. PX4 Testing OAK-D Pro W RGBD CAM.md",
+                "file": "To Buy....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,25 +118,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.3. PX4 Testing OAK-D Pro W RGBD CAM"
+              "title": "Backlinks for To Buy..."
             }
           },
           {
-            "id": "7bb8f5b2b29c7e5b",
+            "id": "449dae84695a7421",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.3. PX4 Testing OAK-D Pro W RGBD CAM.md",
+                "file": "To Buy....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2.3. PX4 Testing OAK-D Pro W RGBD CAM"
+              "title": "Outgoing links from To Buy..."
             }
           },
           {
-            "id": "1365c2f9da02bc7a",
+            "id": "0e6d222df2000df4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -208,15 +149,15 @@
             }
           },
           {
-            "id": "ea3851f4b483cf21",
+            "id": "2b81db17ca170090",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.3. PX4 Testing OAK-D Pro W RGBD CAM.md"
+                "file": "To Buy....md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.3. PX4 Testing OAK-D Pro W RGBD CAM"
+              "title": "Outline of To Buy..."
             }
           }
         ]
@@ -236,47 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b40ae20e5ca35cd4",
+  "active": "e3e1006c5e95af24",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "2.5. Mapping Test.md",
-    "2.1. Setup of companion computer.md",
-    "To Buy....md",
-    "xy_Ubuntu Installation.md",
-    "99. Random things to keep in mind and consider for thesis project..md",
-=======
-    "2.1. Setup of companion computer.md",
->>>>>>> d795d27c5e85ebb6149e76b93c54415cc795f1e6
     "3.1. Todo List.md",
-    "2.5. Mapping Test.md",
-    "2.6. Camera Performance comparison IR vs. OAK.md",
-    "2.5.5. ORB-SLAM3.md",
-    "2.4.5 Positional Test and.md",
-    "3. Algorithms used and explained.md",
     "To Buy....md",
-    "Ros2 Tutorial.md",
-    "2.3. Testing OAK-D Pro W RGBD CAM.md",
-    "2.2. PX4 Optical Flow Implementation.md",
-    "2.4. PX4 Offboard Control Flow.md",
-    "1. Drone Simulation(Humble PX4).md",
-    "2. Deployment and Startup of actual drone.md",
-    "xy_Ubuntu Installation.md",
-    "Screenshot from 2024-11-08 19-58-56.png",
-    "VIM4_Pinout Aligned.png",
-    "99. Random things to keep in mind and consider for thesis project..md",
-    "ROS2 Creating a node.md",
-    "Ignition Fortress Simulation.md",
-    "Screenshot from 2024-11-04 16-10-14 1.png",
-    "Screenshot from 2024-11-04 16-10-14.png",
-    "1.3. Drone Sim in Nico Personal Workspace.md",
-    "1.2. Drone SLAM Testing.md",
-    "Screenshot from 2024-10-29 23-15-31.png",
-    "Screenshot from 2024-10-29 22-54-03.png",
-    "Pasted image 20241029224743.png",
-    "Screenshot from 2024-10-29 22-36-26.png",
-    "Screenshot from 2024-10-29 22-31-50.png",
-    "Screenshot from 2024-10-29 22-30-55.png",
-    "xx_Hackathon.md",
-    "1.1. Setup of companion computer(Vim4).md"
+    "2.4.5 Positional Test and.md",
+    "2.5. Mapping Test.md"
   ]
 }
