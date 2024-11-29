@@ -1,78 +1,55 @@
 {
   "main": {
-    "id": "0eb1ad38c9777099",
+    "id": "7735b9f4914c38d0",
     "type": "split",
     "children": [
       {
-        "id": "3ea4bec74cab3c12",
+        "id": "f7bdd311cd06f28a",
         "type": "tabs",
         "children": [
           {
-            "id": "7985ff253054df76",
+            "id": "10698748dc1ce0cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.1. Setup of companion computer.md",
+                "file": "2.5.6. VINS Fusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1. Setup of companion computer"
+              "title": "2.5.6. VINS Fusion"
             }
           },
           {
-            "id": "e3e1006c5e95af24",
+            "id": "41d900c3c921c572",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.1. Todo List.md",
+                "file": "2.2. PX4 Optical Flow Implementation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1. Todo List"
-            }
-          },
-          {
-            "id": "8f8abe4274ad521c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "2.1. Setup of companion computer.md",
-=======
-                "file": "2.5. Mapping Test.md",
->>>>>>> df04d345dcb23ac6cd6c71b492bf3169aa851d71
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "2.1. Setup of companion computer"
-=======
-              "title": "2.5. Mapping Test"
->>>>>>> df04d345dcb23ac6cd6c71b492bf3169aa851d71
+              "title": "2.2. PX4 Optical Flow Implementation"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2a78e1110624922e",
+    "id": "7386da5d5625637d",
     "type": "split",
     "children": [
       {
-        "id": "dfccfbeed52b05be",
+        "id": "f2b4a3be957c4166",
         "type": "tabs",
         "children": [
           {
-            "id": "b6ff73f7940a6faa",
+            "id": "0f64557992ea6fb4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -84,7 +61,7 @@
             }
           },
           {
-            "id": "39a5fb6ed972280c",
+            "id": "12037afbbc0105f3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -101,7 +78,7 @@
             }
           },
           {
-            "id": "13b0ff0483312d6d",
+            "id": "921e8635d33136c0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -117,20 +94,20 @@
     "width": 300
   },
   "right": {
-    "id": "48d27af4cc7db81b",
+    "id": "e7bbd463077f0536",
     "type": "split",
     "children": [
       {
-        "id": "48f785fea15c75db",
+        "id": "c78ac82ce7a70fcf",
         "type": "tabs",
         "children": [
           {
-            "id": "602acb4076fd454c",
+            "id": "6a6116057cd449b5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Buy....md",
+                "file": "2.5.6. VINS Fusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,25 +117,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To Buy..."
+              "title": "Backlinks for 2.5.6. VINS Fusion"
             }
           },
           {
-            "id": "449dae84695a7421",
+            "id": "10cfd9441fca5c0b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Buy....md",
+                "file": "2.5.6. VINS Fusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from To Buy..."
+              "title": "Outgoing links from 2.5.6. VINS Fusion"
             }
           },
           {
-            "id": "0e6d222df2000df4",
+            "id": "dea446ee313027ed",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -171,15 +148,15 @@
             }
           },
           {
-            "id": "2b81db17ca170090",
+            "id": "6cc46c333707f2ab",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Buy....md"
+                "file": "2.5.6. VINS Fusion.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of To Buy..."
+              "title": "Outline of 2.5.6. VINS Fusion"
             }
           }
         ]
@@ -199,15 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f8abe4274ad521c",
+  "active": "10698748dc1ce0cb",
   "lastOpenFiles": [
     "2.2. PX4 Optical Flow Implementation.md",
-    "2.1. Setup of companion computer.md",
-    "2.5. Mapping Test.md",
-    "2.4. PX4 Offboard Control Flow.md",
-    "To Buy....md",
-    "2.4.5 Positional Test.md",
-    "2.2. PX4 Optical Flow Implementation.md",
-    "3.1. Todo List.md"
+    "2.5.6. VINS Fusion.md",
+    "2.5.5. ORB-SLAM3.md",
+    "2.6. Camera Performance comparison IR vs. OAK.md"
   ]
 }
