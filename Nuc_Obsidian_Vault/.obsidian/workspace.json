@@ -41,11 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "99. Random things to keep in mind and consider for thesis project..md",
+=======
+<<<<<<< HEAD
+                "file": "2.1. Setup of companion computer.md",
+=======
+                "file": "2.5. Mapping Test.md",
+>>>>>>> df04d345dcb23ac6cd6c71b492bf3169aa851d71
+>>>>>>> ebcc05bdb7a910cb201a11c194c42827bcfa66dc
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "99. Random things to keep in mind and consider for thesis project."
             }
           },
@@ -75,6 +84,13 @@
               },
               "icon": "lucide-file",
               "title": "To Buy..."
+=======
+<<<<<<< HEAD
+              "title": "2.1. Setup of companion computer"
+=======
+              "title": "2.5. Mapping Test"
+>>>>>>> df04d345dcb23ac6cd6c71b492bf3169aa851d71
+>>>>>>> ebcc05bdb7a910cb201a11c194c42827bcfa66dc
             }
           }
         ],
@@ -221,8 +237,13 @@
   },
   "active": "cf8f914ac4f095c9",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "zz_Other_Nico_Stuff/2. Useful Tools.md",
     "99. Random things to keep in mind and consider for thesis project..md",
+=======
+    "2.2. PX4 Optical Flow Implementation.md",
+    "2.1. Setup of companion computer.md",
+>>>>>>> ebcc05bdb7a910cb201a11c194c42827bcfa66dc
     "2.5. Mapping Test.md",
     "2.1. Setup of companion computer.md",
     "To Buy....md",
