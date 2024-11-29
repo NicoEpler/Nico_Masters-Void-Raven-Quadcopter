@@ -41,16 +41,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.5. Mapping Test.md",
+                "file": "99. Random things to keep in mind and consider for thesis project..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5. Mapping Test"
+              "title": "99. Random things to keep in mind and consider for thesis project."
+            }
+          },
+          {
+            "id": "cf8f914ac4f095c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.4.5 Positional Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.4.5 Positional Test"
+            }
+          },
+          {
+            "id": "c48b4ecd0ec19ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Buy....md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Buy..."
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,14 +219,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f8abe4274ad521c",
+  "active": "cf8f914ac4f095c9",
   "lastOpenFiles": [
-    "2.1. Setup of companion computer.md",
+    "zz_Other_Nico_Stuff/2. Useful Tools.md",
+    "99. Random things to keep in mind and consider for thesis project..md",
     "2.5. Mapping Test.md",
-    "2.4. PX4 Offboard Control Flow.md",
+    "2.1. Setup of companion computer.md",
     "To Buy....md",
+    "zz_Other_Nico_Stuff/1. Cool Youtube Channels.md",
+    "3.1. Todo List.md",
+    "2.4. PX4 Offboard Control Flow.md",
     "2.4.5 Positional Test.md",
-    "2.2. PX4 Optical Flow Implementation.md",
-    "3.1. Todo List.md"
+    "2.2. PX4 Optical Flow Implementation.md"
   ]
 }
