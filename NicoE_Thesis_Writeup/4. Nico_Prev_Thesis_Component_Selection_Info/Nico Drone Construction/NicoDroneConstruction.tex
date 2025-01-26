@@ -1,0 +1,98 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage[english]{babel}
+\usepackage{subcaption}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{float} 
+\usepackage{lscape}
+\usepackage{array}
+\usepackage[matrix,arrow,curve]{xy}
+\usepackage[T2A]{fontenc}
+\usepackage[cp1251]{inputenc}
+\usepackage{graphicx}
+\usepackage{makecell}
+\usepackage{titlesec}
+\usepackage{titletoc}
+\usepackage{blkarray}
+\usepackage{rotating}
+\usepackage{longtable}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\newlist{steps}{enumerate}{1}
+\setlist[steps, 1]{label = Step \arabic*:}
+\usepackage{diagbox} 
+\usepackage{multirow}
+\usepackage{url}
+\usepackage{gensymb}
+
+\usepackage{bookmark}
+\usepackage[]{hyperref}
+\hypersetup{hidelinks} % removes squares from hyperlinks
+
+% \textwidth=175mm  \textheight=257mm
+% \voffset=-2.64cm  \hoffset=-1.85cm
+\geometry{tmargin=2cm,bmargin=2cm,lmargin=2.5cm,rmargin=1cm}
+
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead[C]{\thepage}
+\pagestyle{fancy}
+\fancypagestyle{plain}{%
+  \fancyhf{} % clear all header and footer fields
+  \renewcommand{\headrulewidth}{0pt}
+  \fancyhead[C]{\thepage} % except the center
+}
+\setlength{\headheight}{35pt}
+
+\renewcommand{\thesection}{\arabic{chapter}.\arabic{section}}
+\renewcommand{\thesubsection}{\arabic{chapter}.\arabic{section}.\arabic{subsection}}
+
+\titleformat{\chapter}[display]{\bf\Huge\filcenter}{\chaptername\,\,\thechapter}{.5em}{}{}
+\titlecontents{chapter}[0pt]{\filright}{\bf\chaptername\,\,\thecontentslabel \ }{\bf}{\dotfill\thecontentspage}
+%\titleformat{\section}[block]{\bf\Large\filcenter}{\sectionname\,\,\thesection}{.5em}{}{}
+\titlecontents{section}[1em]{\filright}{\thecontentslabel \ }{}{\dotfill\thecontentspage}
+%\titleformat{\subsection}[block]{\bf\large}{\subsectionname\,\,\thesubsection}{.5em}{}{}
+\titlecontents{subsection}[2em]{\filright}{\thecontentslabel \ }{}{\dotfill\thecontentspage}
+
+\usepackage{xcolor,paracol}
+\setlength{\parindent}{15pt}
+\setcounter{page}{1} 
+\renewcommand{\baselinestretch}{1.2}
+\newtheorem{acknowledgement}{Acknowledgement}
+
+\newtheorem{definition}{Definition}[chapter]
+\newtheorem{lemma}{Lemma}[chapter]
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{remark}{Remark}[chapter]
+\newtheorem{proposition}{Proposition}[chapter]
+\newtheorem{property}{chapter}
+\newtheorem{corollary}{Corollary}[chapter]
+\newtheorem{assumption}{Assumption}[chapter]
+\newtheorem{example}{Example}[chapter]
+
+\renewcommand{\thesection}{\arabic{chapter}.\arabic{section}}
+\renewcommand{\theequation}{\arabic{chapter}.\arabic{equation}}
+\newcommand{\secref}[1]{\S\ref{#1}}
+\renewcommand*\footnoterule{}
+\begin{document}
+\input{Preface.tex}
+\vfil\eject
+
+\large  \tableofcontents
+\renewcommand{\partname}{Chapter}
+
+\input{DroneComponentComparison.tex}
+\vfil\eject
+
+\input{FinalComponentSelection.tex}
+\vfil\eject
+
+\input{InterestingAdditionalComponentstoInvestigate.tex}
+\vfil\eject
+
+\input{Bibliography.tex}
+\vfil\eject
+
+\end{document} 

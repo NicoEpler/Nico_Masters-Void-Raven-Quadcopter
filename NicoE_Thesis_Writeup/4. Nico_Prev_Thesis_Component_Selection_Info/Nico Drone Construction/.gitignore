@@ -1,0 +1,11 @@
+*.aux
+*.log
+*.pdf
+*.toc
+*.syntex.gz
+*.pdf
+*.log
+*.gz
+EnaexRoboticsInMining.fls
+EnaexRoboticsInMining.fdb_latexmk
+EnaexRoboticsInMining.synctex.gz
