@@ -29,7 +29,7 @@
 22. Bright LED
 	1. [RGBW LED](https://www.mantech.co.za/ProductInfo.aspx?Item=35M6024) (170Lm; R210; Mant) or [RGBW LED](https://www.mantech.co.za/ProductInfo.aspx?Item=35M7430) (220Lm; R89; Mant) or [RGBW](https://za.rs-online.com/web/p/leds/1814332?gb=s) (710Lm; R395; RS)
 	2. [W LED](https://www.mantech.co.za/ProductInfo.aspx?Item=14M8555-X) (153Lm; R101; Mant) or [W LED](https://za.rs-online.com/web/p/leds/7743000) (760Lm; R270; RS)
-	3. ![[Screenshot from 2024-11-04 16-10-14 1.png]]
+	3. ![[z_Screenshot from 2024-11-04 16-10-14 1.png]]
 	4. RMF OWL had 1000Lm
 23. 2x [Eachine TX805 5.8G 40CH 25/200/600/800mW FPV Transmitter](https://www.eachine.com/Eachine-TX805-5_8G-40CH-25-or-200-or-600-or-800mW-FPV-Transmitter-TX-LED-Display-Support-OSD-or-Pitmode-or-Smart-Audio-RP-SMA-Female-p-1234.html)
 24. ...CAM
