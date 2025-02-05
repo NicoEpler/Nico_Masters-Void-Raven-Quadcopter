@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuc_Obsidian_Vault/2.3. Testing OAK-D Pro W RGBD CAM.md",
+                "file": "Nuc_Obsidian_Vault/2.5. Mapping Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3. Testing OAK-D Pro W RGBD CAM"
+              "title": "2.5. Mapping Test"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,14 +191,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb98687b73946168",
+  "active": "90c8a8bd520c8d52",
   "lastOpenFiles": [
-    "Nuc_Obsidian_Vault/2.1. Setup of companion computer.md",
-    "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md",
-    "Nuc_Obsidian_Vault/2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning.md",
-    "Nuc_Obsidian_Vault/3.1. PX4 Offboard Control Mode Code.md",
-    "Pasted image 20250203151742.png",
+    "Nuc_Obsidian_Vault/2.4.5 Positional Test.md",
     "Nuc_Obsidian_Vault/2.3. Testing OAK-D Pro W RGBD CAM.md",
+    "Nuc_Obsidian_Vault/2.1. Setup of companion computer.md",
+    "Nuc_Obsidian_Vault/2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning.md",
+    "PX4_QGC_Parameters/QGC_Parameters_BeforeAutotune(working)_v1.params.xlsx",
+    "PX4_QGC_Parameters/086E3A00",
+    "PX4_QGC_Parameters/QGC_Parameters_BeforeAutotune(working)_v1.params",
+    "PX4_QGC_Parameters",
+    "New folder",
+    "Pasted image 20250205095020.png",
+    "Pasted image 20250205094959.png",
+    "Pasted image 20250205094926.png",
+    "Pasted image 20250205094917.png",
+    "Pasted image 20250205094854.png",
+    "Pasted image 20250205094840.png",
+    "Pasted image 20250205092416.png",
+    "Pasted image 20250205091747.png",
+    "Pasted image 20250205091724.png",
+    "Pasted image 20250205091637.png",
+    "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md",
+    "Nuc_Obsidian_Vault/3.1. PX4 Offboard Control Mode Code.md",
     "Nuc_Obsidian_Vault/3.3. Object-Collision Avoidance.md",
     "Nuc_Obsidian_Vault/3.2. Autonomous Exploration and Path Planning.md",
     "2025-01-29.md",
@@ -208,7 +222,6 @@
     "Nuc_Obsidian_Vault/4.1. Todo List.md",
     "Nuc_Obsidian_Vault/4. Algorithms used and explained.md",
     "Nuc_Obsidian_Vault/2.5. Mapping Test.md",
-    "Nuc_Obsidian_Vault/2.4.5 Positional Test.md",
     "Nuc_Obsidian_Vault/2.4. PX4 Offboard Control Flow.md",
     "Nuc_Obsidian_Vault/2.2. PX4 Optical Flow Implementation.md",
     "Nuc_Obsidian_Vault/99. Random things to keep in mind and consider for thesis project..md",
@@ -217,28 +230,14 @@
     "Nuc_Obsidian_Vault/ROS2 Creating a node.md",
     "Nuc_Obsidian_Vault/Ros2 Tutorial.md",
     "Nuc_Obsidian_Vault/To Buy....md",
-    "Pasted image 20240801084526.png",
-    "Pasted image 20240801084818.png",
-    "Pasted image 20240801085159.png",
-    "Pasted image 20240801085448.png",
     "README.md",
     "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
     "Nuc_Obsidian_Vault/2. DroneSim_GazeboSim",
     "Nuc_Obsidian_Vault/zz_Other_Nico_Stuff/1. Cool Youtube Channels and useful Resources.md",
     "Nuc_Obsidian_Vault/zz_Other_Nico_Stuff/2. Useful Tools.md",
-    "Nuc_Obsidian_Vault/z_Pasted image 20241029224743.png",
-    "Nuc_Obsidian_Vault/z_Screenshot from 2024-10-29 22-36-26.png",
-    "Nuc_Obsidian_Vault/z_Screenshot from 2024-11-08 19-58-56.png",
-    "Nuc_Obsidian_Vault/z_Screenshot from 2024-12-04 08-31-29.png",
-    "Nuc_Obsidian_Vault/z_Screenshot from 2024-11-04 16-10-14 1.png",
     "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/NicoE_VoidRaven_v1.synctex(busy)",
     "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/ConclusionandFutureWork/ConclusionandFutureWork.tex",
     "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/ConclusionandFutureWork/conclusion.tex",
-    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/ConclusionandFutureWork",
-    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/PathPlanning",
-    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/AutonomousPathPlanning/AutonomousPathPlanning.tex",
-    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/AutonomousPathPlanning/AutonomousPathPlanning/cae_siamese.pdf",
-    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/AutonomousPathPlanning/AutonomousPathPlanning/mystyle.isy",
-    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/AutonomousPathPlanning/AutonomousPathPlanning"
+    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/ConclusionandFutureWork"
   ]
 }
