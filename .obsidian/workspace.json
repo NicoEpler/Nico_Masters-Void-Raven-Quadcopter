@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuc_Obsidian_Vault/2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning.md",
+                "file": "Nuc_Obsidian_Vault/2.5.7. SpectacularAI DepthAI Mapping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning"
+              "title": "2.5.7. SpectacularAI DepthAI Mapping"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,14 +192,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90c8a8bd520c8d52",
+  "active": "fb98687b73946168",
   "lastOpenFiles": [
+    "Nuc_Obsidian_Vault/2.5.9. RTabMap (Definitely Test This).md",
+    "Nuc_Obsidian_Vault/2.5.8. OctoMap Mapping.md",
     "Nuc_Obsidian_Vault/2.5.7. SpectacularAI DepthAI Mapping.md",
+    "Nuc_Obsidian_Vault/2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning.md",
     "Nuc_Obsidian_Vault/2.5. Mapping Test.md",
+    "Nuc_Obsidian_Vault/2.1. Setup of companion computer.md",
     "Nuc_Obsidian_Vault/2.4.5 Positional Test.md",
     "Nuc_Obsidian_Vault/2.3. Testing OAK-D Pro W RGBD CAM.md",
-    "Nuc_Obsidian_Vault/2.1. Setup of companion computer.md",
-    "Nuc_Obsidian_Vault/2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning.md",
     "PX4_QGC_Parameters/QGC_Parameters_BeforeAutotune(working)_v1.params.xlsx",
     "PX4_QGC_Parameters/086E3A00",
     "PX4_QGC_Parameters/QGC_Parameters_BeforeAutotune(working)_v1.params",
@@ -234,8 +237,6 @@
     "README.md",
     "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
     "Nuc_Obsidian_Vault/2. DroneSim_GazeboSim",
-    "Nuc_Obsidian_Vault/zz_Other_Nico_Stuff/1. Cool Youtube Channels and useful Resources.md",
-    "Nuc_Obsidian_Vault/zz_Other_Nico_Stuff/2. Useful Tools.md",
     "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/NicoE_VoidRaven_v1.synctex(busy)",
     "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/ConclusionandFutureWork/ConclusionandFutureWork.tex",
     "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/ConclusionandFutureWork/conclusion.tex",
