@@ -49,8 +49,7 @@
               "title": "2.5.7. SpectacularAI DepthAI Mapping"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,14 +191,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb98687b73946168",
+  "active": "90c8a8bd520c8d52",
   "lastOpenFiles": [
+    "Nuc_Obsidian_Vault/2.1. Setup of companion computer.md",
+    "Nuc_Obsidian_Vault/2.5.7. SpectacularAI DepthAI Mapping.md",
     "Nuc_Obsidian_Vault/2.5.9. RTabMap (Definitely Test This).md",
     "Nuc_Obsidian_Vault/2.5.8. OctoMap Mapping.md",
-    "Nuc_Obsidian_Vault/2.5.7. SpectacularAI DepthAI Mapping.md",
     "Nuc_Obsidian_Vault/2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning.md",
     "Nuc_Obsidian_Vault/2.5. Mapping Test.md",
-    "Nuc_Obsidian_Vault/2.1. Setup of companion computer.md",
     "Nuc_Obsidian_Vault/2.4.5 Positional Test.md",
     "Nuc_Obsidian_Vault/2.3. Testing OAK-D Pro W RGBD CAM.md",
     "PX4_QGC_Parameters/QGC_Parameters_BeforeAutotune(working)_v1.params.xlsx",
