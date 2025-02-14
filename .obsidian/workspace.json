@@ -194,7 +194,9 @@
   },
   "active": "a103ed59d654d024",
   "lastOpenFiles": [
+    "PX4_QGC_Parameters/QGC_Parameters_AfterAutoTune(PositionBad_Attitude).params",
     "Nuc_Obsidian_Vault/2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning.md",
+    "PX4_QGC_Parameters/QGC_Parameters_AfterAutoTune(PositionBad).params",
     "Nuc_Obsidian_Vault/2.5. Mapping Test.md",
     "PX4_QGC_Parameters/QGC_Parameters_BeforeAutotune(working)_v2.params",
     "Nuc_Obsidian_Vault/3.1. PX4 Offboard Control Mode Code.md",
@@ -238,7 +240,6 @@
     "Nuc_Obsidian_Vault/To Buy....md",
     "Nuc_Obsidian_Vault/2. DroneSim_GazeboSim",
     "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/NicoE_VoidRaven_v1.synctex(busy)",
-    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/ConclusionandFutureWork/ConclusionandFutureWork.tex",
-    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/ConclusionandFutureWork/conclusion.tex"
+    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/ConclusionandFutureWork/ConclusionandFutureWork.tex"
   ]
 }
