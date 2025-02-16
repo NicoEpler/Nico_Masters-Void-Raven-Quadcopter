@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.1. PX4 Offboard Control Mode Code.md",
+                "file": "4.1. Todo List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1. PX4 Offboard Control Mode Code"
+              "title": "4.1. Todo List"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DroneSim_GazeboSim/1. Drone Simulation(Humble PX4).md",
+                "file": "2.5.8. OctoMap Mapping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Drone Simulation(Humble PX4)"
+              "title": "2.5.8. OctoMap Mapping"
             }
           },
           {
@@ -47,6 +47,20 @@
               },
               "icon": "lucide-file",
               "title": "1. Gazebo Classic Simulation"
+            }
+          },
+          {
+            "id": "a99df52fabb66770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.5.7. SpectacularAI DepthAI Mapping.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.5.7. SpectacularAI DepthAI Mapping"
             }
           }
         ]
@@ -193,19 +207,19 @@
   },
   "active": "3ec5f5dc13ee8b9d",
   "lastOpenFiles": [
+    "3.1. PX4 Offboard Control Mode Code.md",
+    "2.5.7. SpectacularAI DepthAI Mapping.md",
+    "2.5.8. OctoMap Mapping.md",
+    "1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
+    "2. DroneSim_GazeboSim/1. Drone Simulation(Humble PX4).md",
     "2.4. PX4 Offboard Control Flow.md",
     "2.1. Setup of companion computer.md",
     "2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning.md",
     "3.3. Object-Collision Avoidance.md",
     "3.2. Autonomous Exploration and Path Planning.md",
-    "3.1. PX4 Offboard Control Mode Code.md",
-    "1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
-    "2.5.7. SpectacularAI DepthAI Mapping.md",
-    "2. DroneSim_GazeboSim/1. Drone Simulation(Humble PX4).md",
     "2. DroneSim_GazeboSim/1.3. Drone Sim in Nico Personal Workspace.md",
     "zz_Other_Nico_Stuff/1. Cool Youtube Channels and useful Resources.md",
     "2.3. Testing OAK-D Pro W RGBD CAM.md",
-    "2.5.8. OctoMap Mapping.md",
     "2.5. Mapping Test.md",
     "zz_Other_Nico_Stuff/2. Useful Tools.md",
     "2.5.9. RTabMap (Definitely Test This).md",
