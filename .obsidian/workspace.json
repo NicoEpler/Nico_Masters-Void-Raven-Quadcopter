@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "d031d996e62d2f78",
@@ -207,27 +206,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d5077dffe7e2a77",
+  "active": "a103ed59d654d024",
   "lastOpenFiles": [
-    "Nuc_Obsidian_Vault/2.5. Mapping Test.md",
     "Nuc_Obsidian_Vault/2.5.7. SpectacularAI DepthAI Mapping.md",
+    "Nuc_Obsidian_Vault/2.5. Mapping Test.md",
+    "Nuc_Obsidian_Vault/4.1. Todo List.md",
+    "NicoE_Thesis_Writeup/3. Writing_Aids_Things_I_Wrote_Down/Useful_Papers/SpectacularAI_Explaination__Reliable-Aerial-Manipulation-Combining-Visual-Tracking.pdf",
+    "NicoE_Thesis_Writeup/3. Writing_Aids_Things_I_Wrote_Down/Useful_Papers/SpecReliable-Aerial-Manipulation-Combining-Visual-Tracking-with-Range-Sensing-for-Robust-Grasping.pdf",
+    "NicoE_Thesis_Writeup/3. Writing_Aids_Things_I_Wrote_Down/Useful_Papers/Reliable-Aerial-Manipulation-Combining-Visual-Tracking-with-Range-Sensing-for-Robust-Grasping.pdf",
+    "NicoE_Thesis_Writeup/3. Writing_Aids_Things_I_Wrote_Down/Useful_Papers/Reliable-Aerial-Manipulation-Combining-Visual-Tracking-with-Range-Sensing-for-Robust-Grasping.pdf.crdownload",
+    "NicoE_Thesis_Writeup/2. All Diagrams/PCD Voxelisation_and_Filter/Final Experimental Set/{1992012E-DC6B-4124-9F76-9CFABA248C4A}.tmp",
+    "NicoE_Thesis_Writeup/2. All Diagrams/PCD Voxelisation_and_Filter/Final Experimental Set/~$PCD Voxelisation_and_Filter.tmp",
+    "NicoE_Thesis_Writeup/2. All Diagrams/PCD Voxelisation_and_Filter/Final Experimental Set/{43779BBA-F89D-41E7-9EEA-08AD10631234}.tmp",
+    "NicoE_Thesis_Writeup/2. All Diagrams/PCD Voxelisation_and_Filter/Final Experimental Set/{9D15F709-87DF-41B1-A583-BE1B1F4C884C}.tmp",
+    "NicoE_Thesis_Writeup/2. All Diagrams/PCD Voxelisation_and_Filter/Final Experimental Set/{ADA5FF7B-08C1-4B48-AAB6-A8F6A4BEB3F4}.tmp",
+    "NicoE_Thesis_Writeup/2. All Diagrams/PCD Voxelisation_and_Filter/Final Experimental Set/zzzSpecAI_Map_Original(v=0.02,n=10,r=0.15).png",
+    "NicoE_Thesis_Writeup/2. All Diagrams/PCD Voxelisation_and_Filter/Final Experimental Set/zzzSpecAI_Map_Original(v=0.1,n=7,r=0.15).png",
+    "NicoE_Thesis_Writeup/2. All Diagrams/PCD Voxelisation_and_Filter/Final Experimental Set/{9CBD9798-D94F-456C-B21A-4BC5A3FA8A67}.tmp",
+    "NicoE_Thesis_Writeup/2. All Diagrams/PCD Voxelisation_and_Filter/Final Experimental Set/SpecAI_Map_Original.png",
     "Nuc_Obsidian_Vault/2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning.md",
     "NicoE_Thesis_Writeup/1. Masters Thesis Structure and Topics.md",
-    "Nuc_Obsidian_Vault/4.1. Todo List.md",
-    "PX4_QGC_Parameters/QGC_Parameters_AfterAutoTune(PositionBad_Attitude).params",
-    "PX4_QGC_Parameters/QGC_Parameters_AfterAutoTune(PositionBad).params",
-    "PX4_QGC_Parameters/QGC_Parameters_BeforeAutotune(working)_v2.params",
     "Nuc_Obsidian_Vault/3.1. PX4 Offboard Control Mode Code.md",
     "Nuc_Obsidian_Vault/2.1. Setup of companion computer.md",
     "Nuc_Obsidian_Vault/2.5.9. RTabMap (Definitely Test This).md",
     "Nuc_Obsidian_Vault/2.5.8. OctoMap Mapping.md",
     "Nuc_Obsidian_Vault/2.4.5 Positional Test.md",
     "Nuc_Obsidian_Vault/2.3. Testing OAK-D Pro W RGBD CAM.md",
-    "PX4_QGC_Parameters/QGC_Parameters_BeforeAutotune(working)_v1.params.xlsx",
-    "PX4_QGC_Parameters/086E3A00",
-    "PX4_QGC_Parameters/QGC_Parameters_BeforeAutotune(working)_v1.params",
-    "PX4_QGC_Parameters",
-    "New folder",
     "Pasted image 20250205095020.png",
     "Pasted image 20250205094959.png",
     "Pasted image 20250205094926.png",
@@ -235,9 +239,6 @@
     "Pasted image 20250205094854.png",
     "Pasted image 20250205094840.png",
     "Pasted image 20250205092416.png",
-    "Pasted image 20250205091747.png",
-    "Pasted image 20250205091724.png",
-    "Pasted image 20250205091637.png",
     "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md",
     "Nuc_Obsidian_Vault/3.3. Object-Collision Avoidance.md",
     "Nuc_Obsidian_Vault/3.2. Autonomous Exploration and Path Planning.md",
@@ -252,8 +253,6 @@
     "Nuc_Obsidian_Vault/Ignition Fortress Simulation.md",
     "Nuc_Obsidian_Vault/ROS2 Creating a node.md",
     "Nuc_Obsidian_Vault/Ros2 Tutorial.md",
-    "Nuc_Obsidian_Vault/To Buy....md",
-    "Nuc_Obsidian_Vault/2. DroneSim_GazeboSim",
-    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/NicoE_VoidRaven_v1.synctex(busy)"
+    "Nuc_Obsidian_Vault/To Buy....md"
   ]
 }
