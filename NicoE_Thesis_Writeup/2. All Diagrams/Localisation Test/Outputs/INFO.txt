@@ -1,0 +1,59 @@
+# Test Results 29 Nov 2024 (OAK Live (with L adapter) on VIM, OF displaced 25mm to back, magnetometer off and gps ekf2 disabled)
+
+20. Test1:
+	1. 3F 2L 1F 1R 3B 1R 1B 360 rot (movements with rotation, but cant remember. maybe 360 after first 3F)
+
+
+
+11. Test 1(IR): rosbag2_2023_11_21-23_04_01/rosbag2_2023_11_21-23_04_01_0.db3
+```Shell
+cd Rosbagrec_2024-11-05
+ros2 bag play rosbag2_2023_11_21-23_04_01
+```
+2 front
+3 back
+2 right
+1 back
+1 left
+2 front + 1 left
+
+
+12. Test 2(IR): rosbag2_2023_11_21-23_11_33/rosbag2_2023_11_21-23_11_33_0.db3
+```Shell
+cd Rosbagrec_2024-11-05
+ros2 bag play rosbag2_2023_11_21-23_11_33
+```
+3-4 front
+rotate 90 ccw
+rotate 90 ccw
+3-4 front
+rotate 90 ccw
+rotate 90 ccw
+
+
+13. Test 3(IR): rosbag2_2023_11_21-23_20_46/rosbag2_2023_11_21-23_20_46_0.db3 (PX4 topics only) 
+```Shell
+cd Rosbagrec_2024-11-05
+ros2 bag play rosbag2_2023_11_21-23_20_46
+```
+ros2 bag record /fmu/out/failsafe_flags /fmu/out/position_setpoint_triplet /fmu/out/sensor_combined /fmu/out/timesync_status /fmu/out/vehicle_attitude /fmu/out/vehicle_control_mode /fmu/out/vehicle_local_position /fmu/out/vehicle_odometry /fmu/out/vehicle_status
+- move from marker to marker. See video 5 Nov 2024 (13:51_Duration:5:01)
+
+
+14. Test 4(OAK): rosbag2_2023_11_21-23_02_12/rosbag2_2023_11_21-23_02_12_0.db3
+	FAIL
+
+
+15. Test 5(OAK-RGBD): rosbag2_2023_11_21-23_02_16/rosbag2_2023_11_21-23_02_16_0.db3
+2front
+rotate180
+2front
+rotate180
+
+
+16. Test 6(OAK-RGBD): rosbag2_2023_11_21-23_08_05
+2front
+180
+2front
+bit random
+random stop, battery dead
