@@ -8,77 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90c8a8bd520c8d52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NicoE_Thesis_Writeup/1. Masters Thesis Structure and Topics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Masters Thesis Structure and Topics"
-            }
-          },
-          {
-            "id": "f8e2a4ce59dd7892",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuc_Obsidian_Vault/2.5.7. SpectacularAI DepthAI Mapping.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.5.7. SpectacularAI DepthAI Mapping"
-            }
-          },
-          {
-            "id": "a1d77e1169c3abad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuc_Obsidian_Vault/2.4.5 Positional Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.4.5 Positional Test"
-            }
-          },
-          {
-            "id": "798d34271a1aa350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuc_Obsidian_Vault/2. DroneSim_GazeboSim/1. Drone Simulation(Humble PX4).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Drone Simulation(Humble PX4)"
-            }
-          },
-          {
-            "id": "8dd73ffbd01810fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuc_Obsidian_Vault/2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning"
-            }
-          },
-          {
-            "id": "71112e181768d82d",
+            "id": "3d7f101996f40352",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,23 +20,8 @@
               "icon": "lucide-file",
               "title": "2.1. Setup of companion computer"
             }
-          },
-          {
-            "id": "a629341a62b288d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuc_Obsidian_Vault/2.5.7. SpectacularAI DepthAI Mapping.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.5.7. SpectacularAI DepthAI Mapping"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,54 +163,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8e2a4ce59dd7892",
+  "active": "3d7f101996f40352",
   "lastOpenFiles": [
-    "NicoE_Thesis_Writeup/2. All Diagrams/Mapping_PoitCloudPics/SpecAI_Kitchen_NoFilter/~$Description.tmp",
-    "NicoE_Thesis_Writeup/2. All Diagrams/Mapping_PoitCloudPics/SpecAI_Kitchen_NoFilter/WhatsApp Image 2025-03-10 at 10.20.25 (1).jpeg",
-    "NicoE_Thesis_Writeup/2. All Diagrams/Mapping_PoitCloudPics/SpecAI_Kitchen_NoFilter/WhatsApp Image 2025-03-10 at 10.20.25 (1).jpeg.crdownload",
-    "NicoE_Thesis_Writeup/2. All Diagrams/Mapping_PoitCloudPics/SpecAI_Kitchen_NoFilter/WhatsApp Image 2025-03-10 at 10.20.25.jpeg.~tmp",
-    "NicoE_Thesis_Writeup/2. All Diagrams/Mapping_PoitCloudPics/SpecAI_Kitchen_NoFilter/Description.pptx",
-    "NicoE_Thesis_Writeup/2. All Diagrams/Mapping_PoitCloudPics/SpecAI_Kitchen_NoFilter/WhatsApp Image 2025-03-10 at 10.20.25.jpeg",
-    "NicoE_Thesis_Writeup/2. All Diagrams/Mapping_PoitCloudPics/SpecAI_Kitchen_NoFilter/WhatsApp Image 2025-03-10 at 10.20.25.jpeg.crdownload",
+    "NicoE_Thesis_Writeup/1. Masters Thesis Structure and Topics.md",
+    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/NicoE_VoidRaven_v1.synctex(busy)",
+    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/NicoE_VoidRaven_v1.blg",
+    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/NicoE_VoidRaven_v1.fls",
+    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/NicoE_VoidRaven_v1.toc",
+    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/NicoE_VoidRaven_v1.out",
+    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/NicoE_VoidRaven_v1.log",
+    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/NicoE_VoidRaven_v1.fdb_latexmk",
+    "NicoE_Thesis_Writeup/NicoEpler_VoidRaven_v1/NicoE_VoidRaven_v1.aux",
+    "Nuc_Obsidian_Vault/2.1. Setup of companion computer.md",
+    "NicoE_Thesis_Writeup/3. WritingAids_and_ThingsIWroteDown/Useful_Papers/Marshall_et_al_2016_miningrobotics-2ndEdition-v2-3.pdf",
+    "NicoE_Thesis_Writeup/3. WritingAids_and_ThingsIWroteDown/Useful_Papers/Marshall_et_al_2016_miningrobotics-2ndEdition-v2-3.pdf.crdownload",
+    "Nuc_Obsidian_Vault/xy_ Complete Ubuntu Installation.md",
+    "Nuc_Obsidian_Vault/VIM4_Pinout Aligned.png",
+    "Nuc_Obsidian_Vault/To Buy....md",
+    "Nuc_Obsidian_Vault/Ros2 Tutorial.md",
+    "Nuc_Obsidian_Vault/ROS2 Creating a node.md",
+    "Nuc_Obsidian_Vault/Ignition Fortress Simulation.md",
+    "Nuc_Obsidian_Vault/999. Writeup Resources.md",
+    "Nuc_Obsidian_Vault/99. Random things to keep in mind and consider for thesis project..md",
+    "Nuc_Obsidian_Vault/4.1. Todo List.md",
+    "Nuc_Obsidian_Vault/4. Algorithms used and explained.md",
+    "Nuc_Obsidian_Vault/3.3. Object-Collision Avoidance.md",
+    "Nuc_Obsidian_Vault/3.2. Autonomous Exploration and Path Planning.md",
+    "Nuc_Obsidian_Vault/3.1. PX4 Offboard Control Mode Code.md",
+    "Nuc_Obsidian_Vault/2.6. Camera Performance comparison IR vs. OAK.md",
+    "Nuc_Obsidian_Vault/2.5.4. Stella_VSLAM.md",
+    "Nuc_Obsidian_Vault/2.5.3 HybVIO SLAM module from SpectacularAI.md",
     "Nuc_Obsidian_Vault/2.5. Mapping Test.md",
-    "Nuc_Obsidian_Vault/2.5.8. OctoMap Mapping.md",
+    "Nuc_Obsidian_Vault/2.4.5 Positional Test.md",
+    "Nuc_Obsidian_Vault/2.4. PX4 Offboard Control Flow.md",
+    "Nuc_Obsidian_Vault/2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning.md",
+    "Nuc_Obsidian_Vault/2.3. Testing OAK-D Pro W RGBD CAM.md",
+    "Nuc_Obsidian_Vault/2.2. PX4 Optical Flow Implementation.md",
+    "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md",
+    "Nuc_Obsidian_Vault/1.2. Drone SLAM Testing.md",
+    "NicoE_Thesis_Writeup/2. All Diagrams/Mapping_PoitCloudPics/SpecAI_Kitchen_NoFilter/WhatsApp Image 2025-03-10 at 10.20.25 (1).jpeg",
+    "NicoE_Thesis_Writeup/2. All Diagrams/Mapping_PoitCloudPics/SpecAI_Kitchen_NoFilter/WhatsApp Image 2025-03-10 at 10.20.25.jpeg",
     "NicoE_Thesis_Writeup/2. All Diagrams/Localisation Test/Outputs/nomagGPS_rosbag2_2024_11_29-15_42_17_topview_v2.png",
     "NicoE_Thesis_Writeup/2. All Diagrams/Localisation Test/Outputs/a_T1_rosbag2_2023_11_21-23_04_01.png",
-    "Nuc_Obsidian_Vault/2.4.5 Positional Test.md",
-    "NicoE_Thesis_Writeup/2. All Diagrams/Localisation Test/Outputs/a_T1_rosbag2_2023_11_21-23_04_01.fig",
-    "Nuc_Obsidian_Vault/4.1. Todo List.md",
-    "NicoE_Thesis_Writeup/2. All Diagrams/Localisation Test/Outputs/INFO.txt",
-    "NicoE_Thesis_Writeup/2. All Diagrams/Localisation Test/Outputs/INF.txt",
-    "NicoE_Thesis_Writeup/2. All Diagrams/Localisation Test/Outputs/New Text Document.txt",
     "NicoE_Thesis_Writeup/2. All Diagrams/Localisation Test/Outputs/New_NED to ENU/a_T1_rosbag2_2023_11_21-23_04_01.png",
     "NicoE_Thesis_Writeup/2. All Diagrams/Localisation Test/Outputs/nomagGPS_rosbag2_2024_11_29-15_42_17_topview.png",
     "NicoE_Thesis_Writeup/2. All Diagrams/Localisation Test/Outputs/nomagGPS_rosbag2_2024_11_29-15_42_17_labelled.png",
     "NicoE_Thesis_Writeup/2. All Diagrams/Localisation Test/Outputs/nomagGPS_rosbag2_2024_11_29-15_42_17.png",
-    "NicoE_Thesis_Writeup/2. All Diagrams/Localisation Test/Outputs/New_NED to ENU",
     "NicoE_Thesis_Writeup/2. All Diagrams/Localisation Test/Outputs/a_T5_rosbag2_2023_11_21-23_02_16.png",
-    "NicoE_Thesis_Writeup/2. All Diagrams/Localisation Test/Outputs/a_T3_rosbag2_2023_11_21-23_20_46_v3.png",
-    "NicoE_Thesis_Writeup/2. All Diagrams/Localisation Test/Outputs",
-    "Nuc_Obsidian_Vault/2.1. Setup of companion computer.md",
-    "Nuc_Obsidian_Vault/2.3. Testing OAK-D Pro W RGBD CAM.md",
-    "Nuc_Obsidian_Vault/2.5.3 HybVIO SLAM module from SpectacularAI.md",
-    "Nuc_Obsidian_Vault/2.5.4. Stella_VSLAM.md",
-    "Nuc_Obsidian_Vault/2. DroneSim_GazeboSim/1.3. Drone Sim in Nico Personal Workspace.md",
-    "Nuc_Obsidian_Vault/2.5.7. SpectacularAI DepthAI Mapping.md",
-    "Nuc_Obsidian_Vault/1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
-    "Nuc_Obsidian_Vault/2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning.md",
-    "Nuc_Obsidian_Vault/2. DroneSim_GazeboSim/1. Drone Simulation(Humble PX4).md",
-    "Nuc_Obsidian_Vault/2. DroneSim_GazeboSim/2. DroneSim (Gazebo Garden).md",
-    "NicoE_Thesis_Writeup/1. Masters Thesis Structure and Topics.md",
-    "Nuc_Obsidian_Vault/3.1. PX4 Offboard Control Mode Code.md",
-    "Nuc_Obsidian_Vault/2.5.9. RTabMap (Definitely Test This).md",
-    "Nuc_Obsidian_Vault/2. Deployment and Startup of actual drone.md",
-    "Nuc_Obsidian_Vault/3.3. Object-Collision Avoidance.md",
-    "Nuc_Obsidian_Vault/3.2. Autonomous Exploration and Path Planning.md",
-    "2025-01-29.md",
-    "Untitled.canvas",
-    "Nuc_Obsidian_Vault/0. To Investigate.md",
-    "Nuc_Obsidian_Vault/4. Algorithms used and explained.md",
-    "Nuc_Obsidian_Vault/2.4. PX4 Offboard Control Flow.md",
-    "Nuc_Obsidian_Vault/2.2. PX4 Optical Flow Implementation.md"
+    "Untitled.canvas"
   ]
 }
