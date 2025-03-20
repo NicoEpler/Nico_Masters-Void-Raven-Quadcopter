@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Gazebo Classic Simulation"
-            }
-          },
-          {
-            "id": "d54c6a5a11b2a313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2. DroneSim_GazeboSim/1.3. Drone Sim in Nico Personal Workspace.md",
                 "mode": "source",
                 "source": false
@@ -36,7 +22,7 @@
             }
           },
           {
-            "id": "a2c651dc4fbdf71a",
+            "id": "d61d65a49062e3b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,65 +34,8 @@
               "icon": "lucide-file",
               "title": "4.1. Todo List"
             }
-          },
-          {
-            "id": "288dcc34251d4dab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. DroneSim_GazeboSim/1. Drone Simulation(Humble PX4).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Drone Simulation(Humble PX4)"
-            }
-          },
-          {
-            "id": "4e4cdf7f1eccb7a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.3. Testing OAK-D Pro W RGBD CAM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.3. Testing OAK-D Pro W RGBD CAM"
-            }
-          },
-          {
-            "id": "d3ddf6780ab96cd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.5.3 HybVIO SLAM module from SpectacularAI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.5.3 HybVIO SLAM module from SpectacularAI"
-            }
-          },
-          {
-            "id": "2c5fb282287bae24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.5.4. Stella_VSLAM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.5.4. Stella_VSLAM"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,34 +177,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e4cdf7f1eccb7a0",
+  "active": "35ec09fc472ec98f",
   "lastOpenFiles": [
-    "2.5.3 HybVIO SLAM module from SpectacularAI.md",
+    "4.1. Todo List.md",
+    "2. DroneSim_GazeboSim/1.3. Drone Sim in Nico Personal Workspace.md",
+    "2. DroneSim_GazeboSim/1. Drone Simulation(Humble PX4).md",
+    "4. Algorithms used and explained.md",
+    "3.3. Object-Collision Avoidance.md",
+    "3.2. Autonomous Exploration and Path Planning.md",
+    "3.1. PX4 Offboard Control Mode Code.md",
+    "2.1. Setup of companion computer.md",
+    "1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
     "2.3. Testing OAK-D Pro W RGBD CAM.md",
+    "2.5.3 HybVIO SLAM module from SpectacularAI.md",
     "2.5.4. Stella_VSLAM.md",
     "2.5.6. VINS Fusion (Supposedly works on arm64).md",
-    "2.1. Setup of companion computer.md",
     "2.5.9. RTabMap (Definitely Test This).md",
-    "2. DroneSim_GazeboSim/1.3. Drone Sim in Nico Personal Workspace.md",
-    "1. DroneSim_GazeboClassic/1. Gazebo Classic Simulation.md",
-    "2. DroneSim_GazeboSim/1. Drone Simulation(Humble PX4).md",
     "2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning.md",
-    "4.1. Todo List.md",
     "2.2. PX4 Optical Flow Implementation.md",
-    "3.1. PX4 Offboard Control Mode Code.md",
     "2.5.7. SpectacularAI DepthAI Mapping.md",
     "2. DroneSim_GazeboSim/2. DroneSim (Gazebo Garden).md",
     "2.5.8. OctoMap Mapping.md",
     "2.4. PX4 Offboard Control Flow.md",
-    "3.3. Object-Collision Avoidance.md",
-    "3.2. Autonomous Exploration and Path Planning.md",
     "zz_Other_Nico_Stuff/1. Cool Youtube Channels and useful Resources.md",
     "2.5. Mapping Test.md",
     "zz_Other_Nico_Stuff/2. Useful Tools.md",
     "2.5.5. ORB-SLAM3.md",
     "Ros2 Tutorial.md",
     "xy_ Complete Ubuntu Installation.md",
-    "2. Deployment and Startup of actual drone.md",
     "Screenshot from 2024-12-04 08-31-29.png"
   ]
 }
