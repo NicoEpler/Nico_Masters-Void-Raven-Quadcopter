@@ -1,35 +1,3 @@
-
-1. [RTabMap on RBPi](https://github.com/introlab/rtabmap/wiki/installation#issues) 
-2. [More on the RTabMap on RBPi, with Tuts](https://github.com/introlab/rtabmap/wiki/Tutorials) 
-3. [Medium Post RTabMap on RBPi - Installing Ubuntu(18.04 LTS) on Raspberry Pi 4 with ROS Melodic and RealSense D435 + RTAB-Map](https://shalutharajapakshe.medium.com/installing-ubuntu-18-04-lts-on-raspberry-pi-4-with-ros-melodic-and-realsense-d435-rtab-map-563fcc725520) 
-4. [Medium - ROS: Simultaneous Mapping and Localization with RTABmap](https://admantium.medium.com/ros-simultaneous-mapping-and-localization-with-rtabmap-e527e6a6716) 
-5. [Possible post on how to create map](https://wiki.ros.org/navigation/Tutorials/RobotSetup) 
-	1. [More on that](https://wiki.ros.org/slam_gmapping/Tutorials/MappingFromLoggedData) 
-
-# 1. This works:
-1. After installing DepthAI packages/repositories
-2. Install RTABMAP according to [this page](https://docs.luxonis.com/software/ros/depthai-ros/driver/)
-3. Also install missing dependencies
-4. run RTABMap using:
-```Shell
-ros2 launch depthai_ros_driver rtabmap.launch.py
-```
-
-
-Other Mapping Algorithms to also explore:
-1. [Kimera-VIO(Probably not that amazing)](https://github.com/MIT-SPARK/Kimera-VIO) 
-2. [Luigi Freda Pyslam](https://github.com/luigifreda/pyslam) 
-	1. Could be useful but idk if it runs on ROS2
-	2. Might not be designed for real time performance
-
-
-
-# 
-
-
-
-
-
 Install DepthAI library from source
 -----------------------To install from source:---------------------------
 From this link: https://docs.luxonis.com/software/ros/depthai-ros/build/
@@ -143,24 +111,6 @@ ros2 launch rtabmap_launch rtabmap.launch.py  args:="--delete_db_on_start"  dept
 ```Shell
 ros2 launch rtabmap_custom rtabmap_custom.launch.py
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
