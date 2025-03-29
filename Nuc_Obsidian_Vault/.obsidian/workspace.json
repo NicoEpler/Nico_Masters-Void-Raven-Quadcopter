@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,11 +206,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a690af44dfbb4a9",
+  "active": "37a7d059a4910250",
   "lastOpenFiles": [
     "2.5.9. RTabMap.md",
-    "2.1. Setup of companion computer.md",
     "2.5.7. SpectacularAI DepthAI Mapping.md",
+    "2.1. Setup of companion computer.md",
     "zz_Other_Nico_Stuff/2. Useful Tools.md",
     "zz_Other_Nico_Stuff/1. Cool Youtube Channels and useful Resources.md",
     "zz_Other_Nico_Stuff",
