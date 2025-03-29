@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.5.7. SpectacularAI DepthAI Mapping.md",
+                "file": "2. DroneSim_GazeboSim/3. VoidRavenSim_PX4 LAB-PC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5.7. SpectacularAI DepthAI Mapping"
+              "title": "3. VoidRavenSim_PX4 LAB-PC"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tf2",
+                "query": "Altered_Simulation_Files",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
