@@ -4,53 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7bdd311cd06f28a",
+        "id": "2c47186adeedb0e6",
         "type": "tabs",
         "children": [
           {
-            "id": "cd930889de52c196",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.5.7. SpectacularAI DepthAI Mapping.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.5.7. SpectacularAI DepthAI Mapping"
-            }
-          },
-          {
-            "id": "3bd9b7dce56cb8be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.5.9. RTabMap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.5.9. RTabMap"
-            }
-          },
-          {
-            "id": "8a690af44dfbb4a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.1. Setup of companion computer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.1. Setup of companion computer"
-            }
-          },
-          {
-            "id": "37a7d059a4910250",
+            "id": "223e69400a627e43",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,9 +20,22 @@
               "icon": "lucide-file",
               "title": "3. VoidRavenSim_PX4 LAB-PC"
             }
+          },
+          {
+            "id": "e8b630ae49005ddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.5.9. RTabMap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.5.9. RTabMap"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Altered_Simulation_Files",
+                "query": "tf_",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e7bbd463077f0536",
@@ -207,9 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37a7d059a4910250",
+  "active": "12037afbbc0105f3",
   "lastOpenFiles": [
     "2.5.9. RTabMap.md",
+    "2. DroneSim_GazeboSim/3. VoidRavenSim_PX4 LAB-PC.md",
     "2.5.7. SpectacularAI DepthAI Mapping.md",
     "2.1. Setup of companion computer.md",
     "zz_Other_Nico_Stuff/2. Useful Tools.md",
@@ -247,7 +219,6 @@
     "2.4. PX4 Offboard Control Flow.md",
     "2.3.5. Adding ESP32 to Drone for Wireless GCS Connection and autotuning.md",
     "2.3. Testing OAK-D Pro W RGBD CAM.md",
-    "2.2. PX4 Optical Flow Implementation.md",
     "2. DroneSim_GazeboSim",
     "Drone business"
   ]

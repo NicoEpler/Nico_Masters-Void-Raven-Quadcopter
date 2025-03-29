@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/nico/ros2_ws/install/ros_ign_interfaces/include/**",
+        "/home/nico/ros2_ws/install/ros_gz_sim/include/**",
+        "/home/nico/ros2_ws/install/ros_gz_bridge/include/**",
+        "/home/nico/ros2_ws/install/ros_gz_interfaces/include/**",
+        "/home/nico/ros2_ws/install/realsense2_camera/include/**",
+        "/home/nico/ros2_ws/install/realsense2_camera_msgs/include/**",
+        "/home/nico/ros2_ws/install/px4_msgs/include/**",
+        "/home/nico/dai_ws/install/depthai_ros_driver/include/**",
+        "/home/nico/dai_ws/install/depthai_filters/include/**",
+        "/home/nico/dai_ws/install/depthai_bridge/include/**",
+        "/home/nico/dai_ws/install/depthai_ros_msgs/include/**",
+        "/home/nico/VINS-Fusion-ROS2-humble-arm/install/camera_models/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/nico/ros2_ws/src/ORB_SLAM3_ROS2/include/**",
+        "/home/nico/ros2_ws/src/iridescence_viewer/include/**",
+        "/home/nico/ros2_ws/src/my_oakd_pointcloud_cpp/include/**",
+        "/home/nico/ros2_ws/src/my_oakd_pointcloud_cpp_c/include/**",
+        "/home/nico/ros2_ws/src/octomap_server2/include/**",
+        "/home/nico/ros2_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/nico/ros2_ws/src/ros_gz/ros_gz_bridge/include/**",
+        "/home/nico/ros2_ws/src/ros_gz/ros_gz_sim/include/**",
+        "/home/nico/ros2_ws/src/slam_example/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
