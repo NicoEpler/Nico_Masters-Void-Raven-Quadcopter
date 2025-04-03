@@ -1,0 +1,15 @@
+Active-SLAM-Paper-List: https://github.com/Active-SLAM/Active-SLAM-Paper-List
+Lots of papers and repos for robot exploration, active slam, active loop closure, mapping, localization, information gathering......
+
+
+Python robotics: https://github.com/AtsushiSakai/PythonRobotics
+Textbook for robotocs algorithms
+
+
+AEP (Autonomous Exploration Planner): search on web
+Many different versions of this available
+
+
+HKUST-Aerial-Robotics: https://github.com/orgs/HKUST-Aerial-Robotics/repositories
+FUEL, FAST-Planner, FALCON(comparison between planners)
+ 
