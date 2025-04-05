@@ -1,3 +1,11 @@
+Aerial Robotics Landscape: https://ros-aerial.github.io/aerial_robotic_landscape/aerial_autonomy_stacks/
+Qerial autonomy stacks, etc for ROS1 and ROS1. Some pages show how many pachages work fro ros1 and how little for ros2. 
+
+
+MIT class on visual navgation: https://vnav.mit.edu/acknowledgments.html
+Probably useful for basic principals
+
+
 Active-SLAM-Paper-List: https://github.com/Active-SLAM/Active-SLAM-Paper-List
 Lots of papers and repos for robot exploration, active slam, active loop closure, mapping, localization, information gathering......
 
